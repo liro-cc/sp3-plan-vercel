@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-09-11T10:10:15.097423+00:00",
+  "updated_at": "2026-09-14T11:11:06.891879+00:00",
   "classes": [
     {
       "name": "8a",
@@ -48,9 +48,9 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "geografia",
-              "teacher": "BH",
-              "room": "25g",
+              "subject": "e_dla_bezp",
+              "teacher": "AK",
+              "room": "18g",
               "group": ""
             },
             {
@@ -60,9 +60,9 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "matematyka",
+              "teacher": "WK",
+              "room": "26g",
               "group": ""
             },
             {
@@ -84,9 +84,9 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "e_dla_bezp",
-              "teacher": "AK",
-              "room": "24g",
+              "subject": "geografia",
+              "teacher": "BH",
+              "room": "25g",
               "group": ""
             },
             {
@@ -204,9 +204,9 @@
               "group": ""
             },
             {
-              "subject": "matematyka",
-              "teacher": "WK",
-              "room": "26g",
+              "subject": "e_zdrowotna",
+              "teacher": "MY",
+              "room": "23g",
               "group": ""
             },
             {
@@ -279,42 +279,6 @@
               "subject": "wf",
               "teacher": "Sa",
               "room": "sg2",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "8",
-          "time": "14:40-15:25",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_zdrowotna",
-              "teacher": "MY",
-              "room": "23g",
               "group": ""
             },
             {
@@ -892,7 +856,7 @@
             {
               "subject": "wos",
               "teacher": "MY",
-              "room": "24g",
+              "room": "25g",
               "group": ""
             },
             {
@@ -1041,21 +1005,21 @@
           "time": "8:00- 8:45",
           "days": [
             {
+              "subject": "e_zdrowotna",
+              "teacher": "MY",
+              "room": "23g",
+              "group": ""
+            },
+            {
               "subject": "j.angielski",
               "teacher": "Pm",
               "room": "11g",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "geografia",
-              "teacher": "AK",
-              "room": "24g",
+              "subject": "informatyka",
+              "teacher": "Z",
+              "room": "6g",
               "group": ""
             },
             {
@@ -1077,15 +1041,15 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "wf",
-              "teacher": "AS",
-              "room": "sg1",
+              "subject": "fizyka",
+              "teacher": "NI",
+              "room": "29g",
               "group": ""
             },
             {
-              "subject": "geografia",
-              "teacher": "AK",
-              "room": "24g",
+              "subject": "wf",
+              "teacher": "AS",
+              "room": "sg2",
               "group": ""
             },
             {
@@ -1149,9 +1113,9 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "informatyka",
-              "teacher": "Z",
-              "room": "6g",
+              "subject": "wf",
+              "teacher": "AS",
+              "room": "sg2",
               "group": ""
             },
             {
@@ -1221,12 +1185,6 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "fizyka",
-              "teacher": "NI",
-              "room": "28g",
-              "group": ""
-            },
-            {
               "subject": "j.polski",
               "teacher": "Bk",
               "room": "24g",
@@ -1236,6 +1194,12 @@
               "subject": "j.polski",
               "teacher": "Bk",
               "room": "24g",
+              "group": ""
+            },
+            {
+              "subject": "wf",
+              "teacher": "AS",
+              "room": "sg1",
               "group": ""
             },
             {
@@ -1263,9 +1227,9 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
-              "room": "sg2",
+              "subject": "geografia",
+              "teacher": "BH",
+              "room": "25g",
               "group": ""
             },
             {
@@ -1275,51 +1239,15 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
-              "room": "sg1",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "8",
-          "time": "14:40-15:25",
-          "days": [
-            {
               "subject": "",
               "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "e_zdrowotna",
-              "teacher": "MY",
-              "room": "23g",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "geografia",
+              "teacher": "BH",
+              "room": "25g",
               "group": ""
             }
           ]
@@ -2006,7 +1934,7 @@
             {
               "subject": "j.angielski-1/2",
               "teacher": "Pn",
-              "room": "14g",
+              "room": "13g",
               "group": ""
             },
             {
@@ -2389,9 +2317,9 @@
               "group": ""
             },
             {
-              "subject": "informatyka-1/2",
-              "teacher": "Z",
-              "room": "6g",
+              "subject": "zaj. wych.",
+              "teacher": "WK",
+              "room": "26g",
               "group": ""
             }
           ]
@@ -2425,9 +2353,9 @@
               "group": ""
             },
             {
-              "subject": "zaj. wych.",
-              "teacher": "WK",
-              "room": "26g",
+              "subject": "informatyka-1/2",
+              "teacher": "Z",
+              "room": "6g",
               "group": ""
             }
           ]
@@ -2522,21 +2450,21 @@
               "group": ""
             },
             {
-              "subject": "j.angielski-2/2",
+              "subject": "wf",
+              "teacher": "AS",
+              "room": "sg2",
+              "group": ""
+            },
+            {
+              "subject": "j.angielski-1/2",
               "teacher": "UN",
               "room": "15g",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "informatyka-1/2",
-              "teacher": "Ha",
-              "room": "6g",
+              "subject": "j.angielski-2/2",
+              "teacher": "UN",
+              "room": "15g",
               "group": ""
             },
             {
@@ -2564,9 +2492,9 @@
               "group": ""
             },
             {
-              "subject": "j.angielski-2/2",
-              "teacher": "UN",
-              "room": "15g",
+              "subject": "informatyka-1/2",
+              "teacher": "Ha",
+              "room": "6g",
               "group": ""
             },
             {
@@ -2702,9 +2630,9 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
-              "room": "sg1",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -2720,7 +2648,7 @@
               "group": ""
             },
             {
-              "subject": "j.angielski-1/2",
+              "subject": "j.angielski-2/2",
               "teacher": "UN",
               "room": "14g",
               "group": ""
@@ -2783,7 +2711,7 @@
             {
               "subject": "j.angielski",
               "teacher": "Pn",
-              "room": "14g",
+              "room": "13g",
               "group": ""
             },
             {
@@ -2812,8 +2740,8 @@
           "days": [
             {
               "subject": "geografia",
-              "teacher": "BH",
-              "room": "25g",
+              "teacher": "AK",
+              "room": "24g",
               "group": ""
             },
             {
@@ -3944,7 +3872,7 @@
             },
             {
               "subject": "wf",
-              "teacher": "AS",
+              "teacher": "Sa",
               "room": "s1",
               "group": ""
             }
@@ -3955,15 +3883,15 @@
           "time": "9:50-10:35",
           "days": [
             {
-              "subject": "informatyka",
-              "teacher": "Ha",
-              "room": "23",
+              "subject": "wf",
+              "teacher": "Sa",
+              "room": "s2",
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
-              "room": "s1",
+              "subject": "e_zdrowotna",
+              "teacher": "Lj",
+              "room": "19",
               "group": ""
             },
             {
@@ -3998,7 +3926,7 @@
             },
             {
               "subject": "wf",
-              "teacher": "AS",
+              "teacher": "Sa",
               "room": "s1",
               "group": ""
             },
@@ -4063,15 +3991,15 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "wf",
-              "teacher": "AS",
-              "room": "s2",
+              "subject": "informatyka",
+              "teacher": "Ha",
+              "room": "23",
               "group": ""
             },
             {
-              "subject": "e_zdrowotna",
-              "teacher": "Lj",
-              "room": "15",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -4081,9 +4009,9 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "wf",
+              "teacher": "Sa",
+              "room": "s1",
               "group": ""
             },
             {
@@ -4479,8 +4407,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Lj",
+              "subject": "j.angielski",
+              "teacher": "UN",
               "room": "15",
               "group": ""
             },
@@ -4509,8 +4437,8 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "j.angielski",
-              "teacher": "UN",
+              "subject": "e_wczesnoszk",
+              "teacher": "Lj",
               "room": "15",
               "group": ""
             },
@@ -4630,15 +4558,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
-              "room": "9",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
+              "room": "9",
               "group": ""
             },
             {
@@ -4672,8 +4600,8 @@
               "group": ""
             },
             {
-              "subject": "religia",
-              "teacher": "PG",
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
               "room": "9",
               "group": ""
             },
@@ -4708,8 +4636,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "religia",
+              "teacher": "PG",
               "room": "9",
               "group": ""
             },
@@ -5082,9 +5010,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Gj",
-              "room": "6",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -5118,8 +5046,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Gj",
+              "subject": "religia",
+              "teacher": "PG",
               "room": "6",
               "group": ""
             },
@@ -5154,8 +5082,8 @@
               "group": ""
             },
             {
-              "subject": "religia",
-              "teacher": "PG",
+              "subject": "e_wczesnoszk",
+              "teacher": "Gj",
               "room": "6",
               "group": ""
             },
@@ -5226,9 +5154,9 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Gj",
+              "room": "6",
               "group": ""
             },
             {
@@ -5540,9 +5468,9 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Cc",
+              "room": "17",
               "group": ""
             }
           ]
@@ -5578,7 +5506,7 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Cc",
-              "room": "17",
+              "room": "23",
               "group": ""
             }
           ]
@@ -5678,9 +5606,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Cc",
-              "room": "23",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -5861,13 +5789,13 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Pj",
-              "room": "18",
+              "room": "23",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "Pj",
-              "room": "23",
+              "room": "18",
               "group": ""
             },
             {
@@ -6645,9 +6573,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "informatyka",
               "teacher": "",
-              "room": "",
+              "room": "6g",
               "group": ""
             },
             {
@@ -6741,12 +6669,6 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "informatyka",
-              "teacher": "",
-              "room": "6g",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -6765,9 +6687,15 @@
               "group": ""
             },
             {
-              "subject": "informatyka",
+              "subject": "",
               "teacher": "",
-              "room": "6g",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -6801,9 +6729,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "informatyka",
               "teacher": "",
-              "room": "",
+              "room": "6g",
               "group": ""
             }
           ]
@@ -6910,9 +6838,9 @@
               "group": ""
             },
             {
-              "subject": "informatyka",
+              "subject": "",
               "teacher": "",
-              "room": "6g",
+              "room": "",
               "group": ""
             },
             {
@@ -6940,9 +6868,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "informatyka",
               "teacher": "",
-              "room": "",
+              "room": "6g",
               "group": ""
             },
             {
@@ -6964,9 +6892,9 @@
           "time": "9:50-10:35",
           "days": [
             {
-              "subject": "informatyka",
+              "subject": "",
               "teacher": "",
-              "room": "23",
+              "room": "",
               "group": ""
             },
             {
@@ -7072,9 +7000,9 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "",
+              "subject": "informatyka",
               "teacher": "",
-              "room": "",
+              "room": "23",
               "group": ""
             },
             {
@@ -7460,7 +7388,7 @@
             {
               "subject": "religia",
               "teacher": "",
-              "room": "9",
+              "room": "6",
               "group": ""
             },
             {
@@ -7496,7 +7424,7 @@
             {
               "subject": "religia",
               "teacher": "",
-              "room": "6",
+              "room": "9",
               "group": ""
             },
             {
@@ -9014,13 +8942,13 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "18",
+              "room": "23",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "23",
+              "room": "18",
               "group": ""
             },
             {
@@ -9103,9 +9031,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "17",
               "group": ""
             }
           ]
@@ -9141,7 +9069,7 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "17",
+              "room": "23",
               "group": ""
             }
           ]
@@ -9214,42 +9142,6 @@
               "subject": "e_wczesnoszk",
               "teacher": "",
               "room": "17",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "5",
-          "time": "11:45-12:30",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_wczesnoszk",
-              "teacher": "",
-              "room": "23",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
               "group": ""
             }
           ]
@@ -9380,9 +9272,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "e_zdrowotna",
               "teacher": "",
-              "room": "15",
+              "room": "19",
               "group": ""
             },
             {
@@ -9410,9 +9302,9 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "15",
               "group": ""
             },
             {
@@ -9467,42 +9359,6 @@
               "subject": "e_wczesnoszk",
               "teacher": "",
               "room": "s1",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "6",
-          "time": "12:50-13:35",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_zdrowotna",
-              "teacher": "",
-              "room": "15",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
               "group": ""
             },
             {
@@ -9567,15 +9423,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "",
-              "room": "9",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "9",
               "group": ""
             },
             {
@@ -9609,9 +9465,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "9",
               "group": ""
             },
             {
@@ -9645,9 +9501,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "9",
+              "room": "",
               "group": ""
             },
             {
@@ -10019,9 +9875,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "6",
+              "room": "",
               "group": ""
             },
             {
@@ -10055,9 +9911,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "6",
+              "room": "",
               "group": ""
             },
             {
@@ -10091,9 +9947,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "6",
               "group": ""
             },
             {
@@ -10163,9 +10019,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "6",
               "group": ""
             },
             {
@@ -10669,21 +10525,21 @@
           "time": "12:50-13:35",
           "days": [
             {
+              "subject": "j.polski",
+              "teacher": "",
+              "room": "24g",
+              "group": ""
+            },
+            {
+              "subject": "j.polski",
+              "teacher": "",
+              "room": "24g",
+              "group": ""
+            },
+            {
               "subject": "",
               "teacher": "",
               "room": "",
-              "group": ""
-            },
-            {
-              "subject": "j.polski",
-              "teacher": "",
-              "room": "24g",
-              "group": ""
-            },
-            {
-              "subject": "j.polski",
-              "teacher": "",
-              "room": "24g",
               "group": ""
             },
             {
@@ -11310,7 +11166,7 @@
             {
               "subject": "j.angielski",
               "teacher": "",
-              "room": "4",
+              "room": "14g",
               "group": ""
             },
             {
@@ -11621,9 +11477,9 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
+              "subject": "",
               "teacher": "",
-              "room": "14g",
+              "room": "",
               "group": ""
             }
           ]
@@ -11657,9 +11513,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "j.angielski",
               "teacher": "",
-              "room": "",
+              "room": "14g",
               "group": ""
             }
           ]
@@ -11748,15 +11604,15 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "j.angielski",
-              "teacher": "",
-              "room": "11g",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
+              "group": ""
+            },
+            {
+              "subject": "j.angielski",
+              "teacher": "",
+              "room": "11g",
               "group": ""
             },
             {
@@ -12015,7 +11871,7 @@
             {
               "subject": "j.angielski",
               "teacher": "",
-              "room": "14g",
+              "room": "13g",
               "group": ""
             },
             {
@@ -12051,7 +11907,7 @@
             {
               "subject": "j.angielski",
               "teacher": "",
-              "room": "14g",
+              "room": "13g",
               "group": ""
             },
             {
@@ -12236,15 +12092,15 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "",
-              "room": "15g",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
+              "group": ""
+            },
+            {
+              "subject": "j.angielski",
+              "teacher": "",
+              "room": "15g",
               "group": ""
             },
             {
@@ -12308,9 +12164,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "j.angielski",
               "teacher": "",
-              "room": "",
+              "room": "15",
               "group": ""
             },
             {
@@ -12338,9 +12194,9 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "j.angielski",
+              "subject": "",
               "teacher": "",
-              "room": "15",
+              "room": "",
               "group": ""
             },
             {
@@ -13741,9 +13597,9 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "",
+              "subject": "e_zdrowotna",
               "teacher": "",
-              "room": "",
+              "room": "23g",
               "group": ""
             },
             {
@@ -13897,9 +13753,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_zdrowotna",
               "teacher": "",
-              "room": "",
+              "room": "23g",
               "group": ""
             },
             {
@@ -13923,7 +13779,7 @@
             {
               "subject": "wos",
               "teacher": "",
-              "room": "24g",
+              "room": "25g",
               "group": ""
             },
             {
@@ -13978,42 +13834,6 @@
               "subject": "historia",
               "teacher": "",
               "room": "23g",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "8",
-          "time": "14:40-15:25",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_zdrowotna",
-              "teacher": "",
-              "room": "23g",
-              "group": ""
-            },
-            {
-              "subject": "e_zdrowotna",
-              "teacher": "",
-              "room": "23g",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
               "group": ""
             },
             {
@@ -15674,9 +15494,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "matematyka",
               "teacher": "",
-              "room": "",
+              "room": "26g",
               "group": ""
             },
             {
@@ -15794,9 +15614,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "zaj. wych.",
               "teacher": "",
-              "room": "",
+              "room": "26g",
               "group": ""
             }
           ]
@@ -15818,9 +15638,9 @@
               "group": ""
             },
             {
-              "subject": "matematyka",
+              "subject": "",
               "teacher": "",
-              "room": "26g",
+              "room": "",
               "group": ""
             },
             {
@@ -15830,9 +15650,9 @@
               "group": ""
             },
             {
-              "subject": "zaj. wych.",
+              "subject": "",
               "teacher": "",
-              "room": "26g",
+              "room": "",
               "group": ""
             }
           ]
@@ -16216,9 +16036,9 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "",
+              "subject": "fizyka",
               "teacher": "",
-              "room": "",
+              "room": "29g",
               "group": ""
             },
             {
@@ -16360,9 +16180,9 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "fizyka",
+              "subject": "",
               "teacher": "",
-              "room": "28g",
+              "room": "",
               "group": ""
             },
             {
@@ -16475,9 +16295,9 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "geografia",
+              "subject": "",
               "teacher": "",
-              "room": "25g",
+              "room": "",
               "group": ""
             },
             {
@@ -16685,6 +16505,42 @@
               "group": ""
             }
           ]
+        },
+        {
+          "lesson_nr": "7",
+          "time": "13:45-14:30",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "geografia",
+              "teacher": "",
+              "room": "25g",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "geografia",
+              "teacher": "",
+              "room": "25g",
+              "group": ""
+            }
+          ]
         }
       ]
     },
@@ -16734,9 +16590,9 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "",
+              "subject": "e_dla_bezp",
               "teacher": "",
-              "room": "",
+              "room": "18g",
               "group": ""
             },
             {
@@ -16746,9 +16602,9 @@
               "group": ""
             },
             {
-              "subject": "geografia",
+              "subject": "",
               "teacher": "",
-              "room": "24g",
+              "room": "",
               "group": ""
             },
             {
@@ -16770,15 +16626,15 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "e_dla_bezp",
+              "subject": "geografia",
               "teacher": "",
               "room": "24g",
               "group": ""
             },
             {
-              "subject": "geografia",
+              "subject": "",
               "teacher": "",
-              "room": "24g",
+              "room": "",
               "group": ""
             },
             {
@@ -17089,9 +16945,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "wf",
               "teacher": "",
-              "room": "",
+              "room": "s1",
               "group": ""
             }
           ]
@@ -17101,9 +16957,9 @@
           "time": "9:50-10:35",
           "days": [
             {
-              "subject": "",
+              "subject": "wf",
               "teacher": "",
-              "room": "",
+              "room": "s2",
               "group": ""
             },
             {
@@ -17143,9 +16999,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "wf",
               "teacher": "",
-              "room": "",
+              "room": "s1",
               "group": ""
             },
             {
@@ -17227,9 +17083,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "wf",
               "teacher": "",
-              "room": "",
+              "room": "s1",
               "group": ""
             },
             {
@@ -17330,9 +17186,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "wf",
               "teacher": "",
-              "room": "",
+              "room": "sg2",
               "group": ""
             },
             {
@@ -17360,24 +17216,6 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "wf",
-              "teacher": "",
-              "room": "sg1",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -17386,7 +17224,25 @@
             {
               "subject": "wf",
               "teacher": "",
-              "room": "s1",
+              "room": "sg2",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -17402,9 +17258,9 @@
               "group": ""
             },
             {
-              "subject": "wf",
+              "subject": "",
               "teacher": "",
-              "room": "s1",
+              "room": "",
               "group": ""
             },
             {
@@ -17432,15 +17288,15 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "",
+              "subject": "wf",
               "teacher": "",
-              "room": "",
+              "room": "sg2",
               "group": ""
             },
             {
-              "subject": "wf",
+              "subject": "",
               "teacher": "",
-              "room": "s1",
+              "room": "",
               "group": ""
             },
             {
@@ -17504,21 +17360,21 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "wf",
+              "subject": "",
               "teacher": "",
-              "room": "s2",
-              "group": ""
-            },
-            {
-              "subject": "wf",
-              "teacher": "",
-              "room": "sg1",
+              "room": "",
               "group": ""
             },
             {
               "subject": "",
               "teacher": "",
               "room": "",
+              "group": ""
+            },
+            {
+              "subject": "wf",
+              "teacher": "",
+              "room": "sg1",
               "group": ""
             },
             {
@@ -17546,9 +17402,9 @@
               "group": ""
             },
             {
-              "subject": "wf",
+              "subject": "",
               "teacher": "",
-              "room": "sg2",
+              "room": "",
               "group": ""
             },
             {
@@ -17558,9 +17414,9 @@
               "group": ""
             },
             {
-              "subject": "wf",
+              "subject": "",
               "teacher": "",
-              "room": "sg1",
+              "room": "",
               "group": ""
             },
             {
@@ -17867,49 +17723,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "E.Maciej (MC)",
-      "url": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/plany/n52.html",
-      "title": "E.Maciej (MC)",
-      "lessons": [
-        {
-          "lesson_nr": "0",
-          "time": "7:05- 7:50",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        }
-      ]
     }
   ],
   "rooms": [
@@ -18154,78 +17967,6 @@
             {
               "subject": "",
               "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "1",
-          "time": "8:00- 8:45",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "2",
-          "time": "8:55- 9:40",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "j.angielski",
-              "teacher": "DK",
               "room": "",
               "group": ""
             },
@@ -18496,8 +18237,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Gj",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -18532,8 +18273,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Gj",
+              "subject": "religia",
+              "teacher": "PG",
               "room": "",
               "group": ""
             },
@@ -18568,8 +18309,8 @@
               "group": ""
             },
             {
-              "subject": "religia",
-              "teacher": "PG",
+              "subject": "e_wczesnoszk",
+              "teacher": "Gj",
               "room": "",
               "group": ""
             },
@@ -18618,6 +18359,42 @@
             {
               "subject": "j.angielski",
               "teacher": "UN",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "5",
+          "time": "11:45-12:30",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Gj",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -19087,14 +18864,14 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
               "room": "",
               "group": ""
             },
@@ -19129,8 +18906,8 @@
               "group": ""
             },
             {
-              "subject": "religia",
-              "teacher": "PG",
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
               "room": "",
               "group": ""
             },
@@ -19165,8 +18942,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "religia",
+              "teacher": "PG",
               "room": "",
               "group": ""
             },
@@ -19382,8 +19159,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Lj",
+              "subject": "j.angielski",
+              "teacher": "UN",
               "room": "",
               "group": ""
             },
@@ -19412,8 +19189,8 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "j.angielski",
-              "teacher": "UN",
+              "subject": "e_wczesnoszk",
+              "teacher": "Lj",
               "room": "",
               "group": ""
             },
@@ -19455,42 +19232,6 @@
             },
             {
               "subject": "e_wczesnoszk",
-              "teacher": "Lj",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "6",
-          "time": "12:50-13:35",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_zdrowotna",
               "teacher": "Lj",
               "room": "",
               "group": ""
@@ -19810,8 +19551,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Cc",
               "room": "",
               "group": ""
             }
@@ -19846,8 +19587,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Cc",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -20129,14 +19870,14 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
               "room": "",
               "group": ""
             },
@@ -20310,8 +20051,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_zdrowotna",
+              "teacher": "Lj",
               "room": "",
               "group": ""
             },
@@ -20702,8 +20443,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Cc",
               "room": "",
               "group": ""
             }
@@ -20714,8 +20455,8 @@
           "time": "9:50-10:35",
           "days": [
             {
-              "subject": "informatyka",
-              "teacher": "Ha",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -20762,14 +20503,14 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
               "room": "",
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -20804,8 +20545,44 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Cc",
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "informatyka",
+              "teacher": "Ha",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -22113,7 +21890,7 @@
             },
             {
               "subject": "wf",
-              "teacher": "AS",
+              "teacher": "Sa",
               "room": "",
               "group": ""
             }
@@ -22130,8 +21907,8 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -22167,7 +21944,7 @@
             },
             {
               "subject": "wf",
-              "teacher": "AS",
+              "teacher": "Sa",
               "room": "",
               "group": ""
             },
@@ -22250,8 +22027,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "wf",
+              "teacher": "Sa",
               "room": "",
               "group": ""
             },
@@ -22383,116 +22160,8 @@
           "time": "9:50-10:35",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "4",
-          "time": "10:45-11:30",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "5",
-          "time": "11:45-12:30",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
-        },
-        {
-          "lesson_nr": "6",
-          "time": "12:50-13:35",
-          "days": [
-            {
               "subject": "wf",
-              "teacher": "AS",
+              "teacher": "Sa",
               "room": "",
               "group": ""
             },
@@ -22805,14 +22474,14 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "informatyka",
+              "teacher": "Z",
               "room": "",
               "group": ""
             },
             {
-              "subject": "informatyka",
-              "teacher": "Ha",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -22841,8 +22510,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "informatyka",
+              "teacher": "Ha",
               "room": "",
               "group": ""
             },
@@ -22901,12 +22570,6 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "informatyka",
-              "teacher": "Z",
-              "room": "",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -22925,8 +22588,14 @@
               "group": ""
             },
             {
-              "subject": "informatyka",
-              "teacher": "Z",
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -22961,8 +22630,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "informatyka",
+              "teacher": "Z",
               "room": "",
               "group": ""
             }
@@ -23088,14 +22757,14 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "j.angielski",
-              "teacher": "Pm",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "j.angielski",
+              "teacher": "Pm",
               "room": "",
               "group": ""
             },
@@ -23425,8 +23094,8 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "Pn",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -23462,7 +23131,7 @@
             },
             {
               "subject": "j.angielski",
-              "teacher": "Pn",
+              "teacher": "DK",
               "room": "",
               "group": ""
             },
@@ -23551,8 +23220,8 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "KE",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -23587,8 +23256,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "j.angielski",
+              "teacher": "KE",
               "room": "",
               "group": ""
             }
@@ -24051,8 +23720,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "j.angielski",
+              "teacher": "Pn",
               "room": "",
               "group": ""
             },
@@ -24087,8 +23756,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "j.angielski",
+              "teacher": "Pn",
               "room": "",
               "group": ""
             },
@@ -24310,14 +23979,14 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "UN",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "j.angielski",
+              "teacher": "UN",
               "room": "",
               "group": ""
             },
@@ -24894,8 +24563,8 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_dla_bezp",
+              "teacher": "AK",
               "room": "",
               "group": ""
             },
@@ -25189,8 +24858,8 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_zdrowotna",
+              "teacher": "MY",
               "room": "",
               "group": ""
             },
@@ -25345,8 +25014,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_zdrowotna",
+              "teacher": "MY",
               "room": "",
               "group": ""
             },
@@ -25435,42 +25104,6 @@
               "group": ""
             }
           ]
-        },
-        {
-          "lesson_nr": "8",
-          "time": "14:40-15:25",
-          "days": [
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_zdrowotna",
-              "teacher": "MY",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_zdrowotna",
-              "teacher": "MY",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            }
-          ]
         }
       ]
     },
@@ -25532,8 +25165,8 @@
               "group": ""
             },
             {
-              "subject": "geografia",
-              "teacher": "AK",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -25556,14 +25189,14 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "e_dla_bezp",
+              "subject": "geografia",
               "teacher": "AK",
               "room": "",
               "group": ""
             },
             {
-              "subject": "geografia",
-              "teacher": "AK",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -25700,12 +25333,6 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "wos",
-              "teacher": "MY",
-              "room": "",
-              "group": ""
-            },
-            {
               "subject": "j.polski",
               "teacher": "Bk",
               "room": "",
@@ -25714,6 +25341,12 @@
             {
               "subject": "j.polski",
               "teacher": "Bk",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -25779,8 +25412,8 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "geografia",
-              "teacher": "BH",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -25959,8 +25592,8 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "wos",
+              "teacher": "MY",
               "room": "",
               "group": ""
             },
@@ -25979,6 +25612,42 @@
             {
               "subject": "geografia",
               "teacher": "BH",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "geografia",
+              "teacher": "BH",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "7",
+          "time": "13:45-14:30",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "geografia",
+              "teacher": "BH",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -26050,8 +25719,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "matematyka",
+              "teacher": "WK",
               "room": "",
               "group": ""
             },
@@ -26170,8 +25839,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "zaj. wych.",
+              "teacher": "WK",
               "room": "",
               "group": ""
             }
@@ -26194,8 +25863,8 @@
               "group": ""
             },
             {
-              "subject": "matematyka",
-              "teacher": "WK",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -26206,8 +25875,8 @@
               "group": ""
             },
             {
-              "subject": "zaj. wych.",
-              "teacher": "WK",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -26736,8 +26405,8 @@
           "time": "12:50-13:35",
           "days": [
             {
-              "subject": "fizyka",
-              "teacher": "NI",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -26887,8 +26556,8 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "fizyka",
+              "teacher": "NI",
               "room": "",
               "group": ""
             },
@@ -27772,8 +27441,8 @@
           "time": "8:55- 9:40",
           "days": [
             {
-              "subject": "wf",
-              "teacher": "AS",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -27922,14 +27591,14 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "wf",
+              "teacher": "AS",
               "room": "",
               "group": ""
             },
@@ -27970,8 +27639,8 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -28037,8 +27706,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "wf",
+              "teacher": "AS",
               "room": "",
               "group": ""
             },
@@ -28073,8 +27742,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "wf",
+              "teacher": "AS",
               "room": "",
               "group": ""
             },
@@ -28139,8 +27808,8 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "wf",
+              "teacher": "AS",
               "room": "",
               "group": ""
             },
@@ -28253,8 +27922,8 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "AS",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -28507,33 +28176,73 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "14.09.2026 poniedziałek",
+        "date": "15.09.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Stephan Marlena",
+        "class": "8B",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "15.09.2026 wtorek",
         "lesson": "2, 08:55-09:40",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "5B",
-        "subject": "Technika",
-        "room": "12g",
+        "teacher": "Stephan Marlena",
+        "class": "8B",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "15.09.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Stephan Marlena",
+        "class": "8A",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
         "substitute": "Skudrzyk Agnieszka",
         "notes": ""
       },
       {
-        "date": "14.09.2026 poniedziałek",
+        "date": "15.09.2026 wtorek",
         "lesson": "4, 10:45-11:30",
-        "teacher": "Plaza-Kiersztyn Alina",
+        "teacher": "Stephan Marlena",
         "class": "4B",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Aleksandra Hadam",
-        "notes": "zamiast ostatniej lekcji"
+        "subject": "Wychowanie fizyczne",
+        "room": "s1",
+        "substitute": "Skudrzyk Agnieszka",
+        "notes": ""
       },
       {
-        "date": "14.09.2026 poniedziałek",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4C",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Bociek Katarzyna",
+        "date": "15.09.2026 wtorek",
+        "lesson": "06:50-07:50",
+        "teacher": "Stephan Marlena",
+        "class": "Dzirnnik rewalidacji -ML 2c-Sa",
+        "subject": "Rewalidacje",
+        "room": "",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "15.09.2026 wtorek",
+        "lesson": "12:30-13:30",
+        "teacher": "Stephan Marlena",
+        "class": "Dzirnnik rewalidacji -WK 3b -Sa",
+        "subject": "Rewalidacje",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "15.09.2026 wtorek",
+        "lesson": "13:30-14:30",
+        "teacher": "Stephan Marlena",
+        "class": "Dzirnnik rewalidacji -JD 3a-Sa",
+        "subject": "Rewalidacje",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       }
     ]
