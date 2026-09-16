@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-09-15T10:39:12.282789+00:00",
+  "updated_at": "2026-09-16T10:27:15.942206+00:00",
   "classes": [
     {
       "name": "8a",
@@ -28176,72 +28176,132 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "15.09.2026 wtorek",
+        "date": "16.09.2026 środa",
         "lesson": "1, 08:00-08:45",
-        "teacher": "Stephan Marlena",
+        "teacher": "Marcol Barbara",
         "class": "8B",
-        "subject": "Wychowanie fizyczne",
-        "room": "sg1",
+        "subject": "Biologia",
+        "room": "30g",
         "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "15.09.2026 wtorek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Stephan Marlena",
-        "class": "8B",
-        "subject": "Wychowanie fizyczne",
-        "room": "sg1",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "15.09.2026 wtorek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Stephan Marlena",
+        "date": "16.09.2026 środa",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Widawska Katarzyna",
         "class": "8A",
-        "subject": "Wychowanie fizyczne",
-        "room": "sg1",
-        "substitute": "Skudrzyk Agnieszka",
-        "notes": ""
-      },
-      {
-        "date": "15.09.2026 wtorek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Stephan Marlena",
-        "class": "4B",
-        "subject": "Wychowanie fizyczne",
-        "room": "s1",
-        "substitute": "Skudrzyk Agnieszka",
-        "notes": ""
-      },
-      {
-        "date": "15.09.2026 wtorek",
-        "lesson": "06:50-07:50",
-        "teacher": "Stephan Marlena",
-        "class": "Dzirnnik rewalidacji -ML 2c-Sa",
-        "subject": "Rewalidacje",
-        "room": "",
+        "subject": "Matematyka",
+        "room": "26g",
         "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "15.09.2026 wtorek",
-        "lesson": "12:30-13:30",
-        "teacher": "Stephan Marlena",
-        "class": "Dzirnnik rewalidacji -WK 3b -Sa",
-        "subject": "Rewalidacje",
-        "room": "",
-        "substitute": "Uczniowie zwolnieni do domu",
+        "date": "16.09.2026 środa",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Marcol Barbara",
+        "class": "7C",
+        "subject": "Chemia",
+        "room": "30g",
+        "substitute": "Kielech Jerzy",
         "notes": ""
       },
       {
-        "date": "15.09.2026 wtorek",
-        "lesson": "13:30-14:30",
-        "teacher": "Stephan Marlena",
-        "class": "Dzirnnik rewalidacji -JD 3a-Sa",
-        "subject": "Rewalidacje",
-        "room": "",
+        "date": "16.09.2026 środa",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Widawska Katarzyna",
+        "class": "6A",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Plaza-Kiersztyn Alina",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Marcol Barbara",
+        "class": "7A",
+        "subject": "Chemia",
+        "room": "30g",
+        "substitute": "Grochla Krzysztof",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Widawska Katarzyna",
+        "class": "6B",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Unruh Ewa",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Marcol Barbara",
+        "class": "8C",
+        "subject": "Chemia",
+        "room": "30g",
+        "substitute": "Piasecki Marcin",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Widawska Katarzyna",
+        "class": "7A",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Marcol Barbara",
+        "class": "7A",
+        "subject": "Biologia",
+        "room": "30g",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Marcol Barbara",
+        "class": "7B",
+        "subject": "Chemia",
+        "room": "30g",
+        "substitute": "Plaza-Kiersztyn Alina",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Widawska Katarzyna",
+        "class": "8C",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Grochla Krzysztof",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "7, 13:45-14:30",
+        "teacher": "Marcol Barbara",
+        "class": "7B",
+        "subject": "Biologia",
+        "room": "30g",
+        "substitute": "Plaza-Kiersztyn Alina",
+        "notes": ""
+      },
+      {
+        "date": "16.09.2026 środa",
+        "lesson": "13:45-14:30",
+        "teacher": "Widawska Katarzyna",
+        "class": "ZRK- matematyka - 8c -WK",
+        "subject": "Zajęcia rozwijające kreatywność - przygotowanie do egzaminu ósmoklasisty- matematyka",
+        "room": "26g",
         "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       }
