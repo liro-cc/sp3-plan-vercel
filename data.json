@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-09-22T10:31:32.348815+00:00",
+  "updated_at": "2026-09-23T10:26:20.617597+00:00",
   "classes": [
     {
       "name": "8a",
@@ -28176,43 +28176,123 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "21.09.2026 poniedziałek",
+        "date": "23.09.2026 środa",
         "lesson": "1, 08:00-08:45",
-        "teacher": "Grzegorzyca Joanna",
-        "class": "3D",
-        "subject": "Edukacja matematyczna",
-        "room": "6",
-        "substitute": "Machnik Laura",
+        "teacher": "Bociek Katarzyna",
+        "class": "4B",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "21.09.2026 poniedziałek",
+        "date": "23.09.2026 środa",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Grochla Krzysztof",
+        "class": "7C",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "23.09.2026 środa",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Widawska Katarzyna",
+        "class": "8A",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "notes": ""
+      },
+      {
+        "date": "23.09.2026 środa",
         "lesson": "2, 08:55-09:40",
-        "teacher": "Grzegorzyca Joanna",
-        "class": "3D",
-        "subject": "Wychowanie fizyczne 1-3",
-        "room": "s1",
-        "substitute": "Czarnecka Celina",
+        "teacher": "Bociek Katarzyna",
+        "class": "4C",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "notes": "zamiast 1 lekcji"
+      },
+      {
+        "date": "23.09.2026 środa",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Widawska Katarzyna",
+        "class": "6A",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Buchta Barbara",
         "notes": ""
       },
       {
-        "date": "21.09.2026 poniedziałek",
+        "date": "23.09.2026 środa",
         "lesson": "3, 09:50-10:35",
-        "teacher": "Grzegorzyca Joanna",
-        "class": "3D",
-        "subject": "Edukacja polonistyczna",
-        "room": "6",
-        "substitute": "Marcol 1-3 Barbara",
+        "teacher": "Bociek Katarzyna",
+        "class": "4A",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Michalik Aleksandra",
         "notes": ""
       },
       {
-        "date": "21.09.2026 poniedziałek",
+        "date": "23.09.2026 środa",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Widawska Katarzyna",
+        "class": "6B",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "23.09.2026 środa",
         "lesson": "4, 10:45-11:30",
-        "teacher": "Grzegorzyca Joanna",
-        "class": "3D",
-        "subject": "Edukacja przyrodnicza",
-        "room": "6",
-        "substitute": "Marcol 1-3 Barbara",
+        "teacher": "Bociek Katarzyna",
+        "class": "4A",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Izabela Wyrobek",
+        "notes": "zamiast ostatniej lekcji"
+      },
+      {
+        "date": "23.09.2026 środa",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Widawska Katarzyna",
+        "class": "7A",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Skudrzyk Agnieszka",
+        "notes": ""
+      },
+      {
+        "date": "23.09.2026 środa",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Grochla Krzysztof",
+        "class": "8C",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Plaza-Kiersztyn Alina",
+        "notes": ""
+      },
+      {
+        "date": "23.09.2026 środa",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Widawska Katarzyna",
+        "class": "8C",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Myszkowski Krzysztof",
+        "notes": ""
+      },
+      {
+        "date": "23.09.2026 środa",
+        "lesson": "13:45-14:30",
+        "teacher": "Widawska Katarzyna",
+        "class": "ZRK- matematyka - 8c -WK",
+        "subject": "Zajęcia rozwijające kreatywność - przygotowanie do egzaminu ósmoklasisty- matematyka",
+        "room": "26g",
+        "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       }
     ]
