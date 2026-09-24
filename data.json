@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-09-23T10:26:20.617597+00:00",
+  "updated_at": "2026-09-24T10:42:39.395534+00:00",
   "classes": [
     {
       "name": "8a",
@@ -28176,123 +28176,93 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "23.09.2026 środa",
+        "date": "25.09.2026 piątek",
         "lesson": "1, 08:00-08:45",
-        "teacher": "Bociek Katarzyna",
-        "class": "4B",
-        "subject": "Język polski",
-        "room": "26",
+        "teacher": "Kempny-Lenartowicz Małgorzata",
+        "class": "6B|G 1",
+        "subject": "Język angielski",
+        "room": "11g",
         "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "23.09.2026 środa",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Grochla Krzysztof",
-        "class": "7C",
-        "subject": "Wychowanie fizyczne",
-        "room": "sg1",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "23.09.2026 środa",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Widawska Katarzyna",
-        "class": "8A",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Kempny-Lenartowicz Małgorzata",
-        "notes": ""
-      },
-      {
-        "date": "23.09.2026 środa",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Bociek Katarzyna",
-        "class": "4C",
-        "subject": "Język polski",
-        "room": "26",
-        "substitute": "Kempny-Lenartowicz Małgorzata",
-        "notes": "zamiast 1 lekcji"
-      },
-      {
-        "date": "23.09.2026 środa",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Widawska Katarzyna",
-        "class": "6A",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Buchta Barbara",
-        "notes": ""
-      },
-      {
-        "date": "23.09.2026 środa",
+        "date": "25.09.2026 piątek",
         "lesson": "3, 09:50-10:35",
-        "teacher": "Bociek Katarzyna",
-        "class": "4A",
-        "subject": "Język polski",
-        "room": "26",
-        "substitute": "Michalik Aleksandra",
+        "teacher": "Kempny-Lenartowicz Małgorzata",
+        "class": "5C",
+        "subject": "Język angielski",
+        "room": "14g",
+        "substitute": "Panfil Alicja",
         "notes": ""
       },
       {
-        "date": "23.09.2026 środa",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Widawska Katarzyna",
-        "class": "6B",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
-        "notes": ""
-      },
-      {
-        "date": "23.09.2026 środa",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Bociek Katarzyna",
-        "class": "4A",
-        "subject": "Język polski",
-        "room": "26",
-        "substitute": "Izabela Wyrobek",
-        "notes": "zamiast ostatniej lekcji"
-      },
-      {
-        "date": "23.09.2026 środa",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Widawska Katarzyna",
-        "class": "7A",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Skudrzyk Agnieszka",
-        "notes": ""
-      },
-      {
-        "date": "23.09.2026 środa",
+        "date": "25.09.2026 piątek",
         "lesson": "5, 11:45-12:30",
-        "teacher": "Grochla Krzysztof",
-        "class": "8C",
-        "subject": "Wychowanie fizyczne",
-        "room": "sg1",
-        "substitute": "Plaza-Kiersztyn Alina",
+        "teacher": "Kempny-Lenartowicz Małgorzata",
+        "class": "6B|G 2",
+        "subject": "Język angielski",
+        "room": "14g",
+        "substitute": "Piasecki Marcin",
         "notes": ""
       },
       {
-        "date": "23.09.2026 środa",
-        "lesson": "6, 12:50-13:35",
-        "teacher": "Widawska Katarzyna",
-        "class": "8C",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Myszkowski Krzysztof",
+        "date": "25.09.2026 piątek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "23",
+        "substitute": "Jastrzębska Katarzyna",
         "notes": ""
       },
       {
-        "date": "23.09.2026 środa",
-        "lesson": "13:45-14:30",
-        "teacher": "Widawska Katarzyna",
-        "class": "ZRK- matematyka - 8c -WK",
-        "subject": "Zajęcia rozwijające kreatywność - przygotowanie do egzaminu ósmoklasisty- matematyka",
-        "room": "26g",
-        "substitute": "Uczniowie zwolnieni do domu",
+        "date": "25.09.2026 piątek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "9",
+        "substitute": "Jastrzębska Katarzyna",
+        "notes": ""
+      },
+      {
+        "date": "25.09.2026 piątek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "s1",
+        "substitute": "Papiernik Joanna",
+        "notes": ""
+      },
+      {
+        "date": "25.09.2026 piątek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "9",
+        "substitute": "Grzegorzyca Joanna",
+        "notes": ""
+      },
+      {
+        "date": "25.09.2026 piątek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Żelazny Bogusław",
+        "class": "6B|G 1",
+        "subject": "Informatyka",
+        "room": "6g",
+        "substitute": "Piasecki Marcin",
+        "notes": ""
+      },
+      {
+        "date": "25.09.2026 piatek",
+        "lesson": "08:50-09:50",
+        "teacher": "Kempny-Lenartowicz Małgorzata",
+        "class": "Dziennik świetlicy - budynek B",
+        "subject": "Świetlica",
+        "room": "",
+        "substitute": "Drapacz Aleksandra",
         "notes": ""
       }
     ]
