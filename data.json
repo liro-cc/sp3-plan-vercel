@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-09-30T11:32:14.103095+00:00",
+  "updated_at": "2026-10-01T12:00:31.518732+00:00",
   "classes": [
     {
       "name": "8a",
@@ -28176,93 +28176,273 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "30.10.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Hadam Aleksandra",
-        "class": "6C|G 1",
-        "subject": "Informatyka",
-        "room": "6g",
-        "substitute": "Unruh Ewa",
-        "notes": ""
-      },
-      {
-        "date": "30.10.2026 piątek",
+        "date": "Zastępstwa",
         "lesson": "1, 08:00-08:45",
-        "teacher": "Kania Beata",
-        "class": "5B",
-        "subject": "Historia",
-        "room": "17g",
+        "teacher": "Bociek Katarzyna",
+        "class": "7A",
+        "subject": "Język polski",
+        "room": "24g",
         "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "30.10.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Kania Beata",
-        "class": "5C",
-        "subject": "Historia",
-        "room": "17g",
-        "substitute": "Kielech Jerzy",
-        "notes": ""
-      },
-      {
-        "date": "30.10.2026 piątek",
+        "date": "Zastępstwa",
         "lesson": "3, 09:50-10:35",
-        "teacher": "Kania Beata",
-        "class": "6C",
-        "subject": "Historia",
-        "room": "17g",
-        "substitute": "Grochla Krzysztof",
+        "teacher": "Bociek Katarzyna",
+        "class": "4B",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Kielech Jerzy",
+        "notes": "zam 5 lekcji - ostatniej"
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Bociek Katarzyna",
+        "class": "4B",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Grzegorzyca Joanna",
         "notes": ""
       },
       {
-        "date": "30.10.2026 piątek",
+        "date": "Zastępstwa",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Bociek Katarzyna",
+        "class": "4A",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Bociek Katarzyna",
+        "class": "4C",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
         "lesson": "1, 08:00-08:45",
         "teacher": "Machnik Marzena",
         "class": "2A",
         "subject": "Edukacja wczesnoszkolna",
-        "room": "s1",
-        "substitute": "Grzegorzyca Joanna",
+        "room": "24",
+        "substitute": "Ludwiczak Joanna",
         "notes": ""
       },
       {
-        "date": "30.10.2026 piątek",
+        "date": "Zastępstwa",
         "lesson": "2, 08:55-09:40",
         "teacher": "Machnik Marzena",
         "class": "2A",
         "subject": "Edukacja wczesnoszkolna",
         "room": "24",
-        "substitute": "Grzegorzyca Joanna",
+        "substitute": "Unruh Ewa",
         "notes": ""
       },
       {
-        "date": "30.10.2026 piątek",
+        "date": "Zastępstwa",
         "lesson": "3, 09:50-10:35",
         "teacher": "Machnik Marzena",
         "class": "2A",
         "subject": "Edukacja wczesnoszkolna",
         "room": "24",
-        "substitute": "Michalik Aleksandra",
+        "substitute": "Machnik Laura",
         "notes": ""
       },
       {
-        "date": "30.10.2026 piątek",
+        "date": "Zastępstwa",
         "lesson": "4, 10:45-11:30",
         "teacher": "Machnik Marzena",
         "class": "2A",
         "subject": "Edukacja wczesnoszkolna",
-        "room": "24",
-        "substitute": "Grzegorzyca Joanna",
+        "room": "s3",
+        "substitute": "Marcol 1-3 Barbara",
         "notes": ""
       },
       {
-        "date": "30.10.2026 piatek",
-        "lesson": "11:45-12:30",
+        "date": "Zastępstwa",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Piasecki Marcin",
+        "class": "8C",
+        "subject": "Język angielski",
+        "room": "11g",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Piasecki Marcin",
+        "class": "7A",
+        "subject": "Język angielski",
+        "room": "11g",
+        "substitute": "Kania Beata",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Piasecki Marcin",
+        "class": "7B",
+        "subject": "Język angielski",
+        "room": "11g",
+        "substitute": "Herdzina Beata",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Piasecki Marcin",
+        "class": "8A",
+        "subject": "Język angielski",
+        "room": "17g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "4A",
+        "subject": "Przyroda",
+        "room": "ZT",
+        "substitute": "Kurpanik Aleksandrara",
+        "notes": "zamiast 6 lekcji- ostatniej"
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "4A",
+        "subject": "Przyroda",
+        "room": "ZT",
+        "substitute": "Wyrobek Izabela",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "4C",
+        "subject": "Przyroda",
+        "room": "ZT",
+        "substitute": "Papiernik Joanna",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "4C",
+        "subject": "Przyroda",
+        "room": "ZT",
+        "substitute": "Pietrek Beata",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "7C",
+        "subject": "Język niemiecki",
+        "room": "12g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "7C",
+        "subject": "Język niemiecki",
+        "room": "12g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "8A",
+        "subject": "Język niemiecki",
+        "room": "12g",
+        "substitute": "Myszkowski Krzysztof",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "8A",
+        "subject": "Język niemiecki",
+        "room": "12g",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "7A",
+        "subject": "Język niemiecki",
+        "room": "12g",
+        "substitute": "Grabowska Joanna",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "7A",
+        "subject": "Język niemiecki",
+        "room": "12g",
+        "substitute": "Grabowska Joanna",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "7, 13:45-14:30",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "8B",
+        "subject": "Język niemiecki",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "Zastępstwa",
+        "lesson": "8, 14:40-15:25",
+        "teacher": "Sobik-Bukowska Patrycja",
+        "class": "8B",
+        "subject": "Język niemiecki",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "02.10.2026 piątek",
+        "lesson": "11:45-12:45",
         "teacher": "Machnik Marzena",
-        "class": "ZRK-2a",
-        "subject": "zajęcia rozwijające kreatywność",
+        "class": "Dziennik rewalidacji 1b",
+        "subject": "zajęcia rewalidacyjne",
         "room": "24",
         "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "02.10.2026 piątek",
+        "lesson": "07:00-08:00",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "Dzirnnik rewalidacji 8c",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "",
+        "substitute": "Uczniowie przychodzą później",
         "notes": ""
       }
     ]
