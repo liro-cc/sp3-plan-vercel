@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-10-02T11:32:51.921108+00:00",
+  "updated_at": "2026-10-05T12:57:04.505685+00:00",
   "classes": [
     {
       "name": "8a",
@@ -5721,9 +5721,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
-              "room": "18",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -5865,9 +5865,9 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
+              "room": "18",
               "group": ""
             },
             {
@@ -8874,9 +8874,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "18",
+              "room": "",
               "group": ""
             },
             {
@@ -8991,6 +8991,42 @@
               "subject": "e_wczesnoszk",
               "teacher": "",
               "room": "18",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "5",
+          "time": "11:45-12:30",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "18",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -20351,8 +20387,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -20495,8 +20531,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
               "room": "",
               "group": ""
             },
@@ -29325,161 +29361,161 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "05.10.2026 poniedziałek",
+        "date": "06.10.2026 wtorek",
         "lesson": "1, 08:00-08:45",
         "teacher": "Kempny-Lenartowicz Małgorzata",
         "class": "6B|G 1",
         "subject": "Język angielski",
-        "room": "11g",
+        "room": "14g",
         "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Kempny-Lenartowicz Małgorzata",
-        "class": "6B|G 2",
-        "subject": "Język angielski",
-        "room": "11g",
-        "substitute": "Żelazny Bogusław",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
+        "date": "06.10.2026 wtorek",
         "lesson": "4, 10:45-11:30",
         "teacher": "Kempny-Lenartowicz Małgorzata",
-        "class": "5C",
-        "subject": "Zajęcia z wychowawcą",
-        "room": "12g",
-        "substitute": "Widawska Katarzyna",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Kogutowicz Dorota",
-        "class": "2B",
+        "class": "3B",
         "subject": "Język angielski",
-        "room": "17",
-        "substitute": "Czarnecka Celina",
-        "notes": ""
+        "room": "9",
+        "substitute": "Michalik Aleksandra",
+        "notes": "zamiast ostatniej lekcji"
       },
       {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Ludwiczak Joanna",
-        "class": "3A",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "15",
-        "substitute": "Machnik Laura",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Ludwiczak Joanna",
-        "class": "3A",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "15",
-        "substitute": "Szyk Urszula",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Ludwiczak Joanna",
-        "class": "3A",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "15",
-        "substitute": "Jastrzębska Katarzyna",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Ludwiczak Joanna",
-        "class": "3A",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "15",
-        "substitute": "Unruh Ewa",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Machnik Marzena",
-        "class": "2A",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "24",
-        "substitute": "Jastrzębska Katarzyna",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Machnik Marzena",
-        "class": "2A",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "24",
-        "substitute": "Kurpanik Aleksandra",
-        "notes": ""
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
+        "date": "06.10.2026 wtorek",
         "lesson": "5, 11:45-12:30",
-        "teacher": "Machnik Marzena",
-        "class": "2A",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "23",
+        "teacher": "Kempny-Lenartowicz Małgorzata",
+        "class": "4A",
+        "subject": "Język angielski",
+        "room": "28",
         "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       },
       {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Myszkowski Krzysztof",
-        "class": "7B",
-        "subject": "Edukacja zdrowotna",
-        "room": "23g",
-        "substitute": "Kielech Jerzy",
-        "notes": "zamiast lekcji nr 1"
-      },
-      {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Piasecki Marcin",
-        "class": "8C",
-        "subject": "Język angielski",
-        "room": "11g",
-        "substitute": "Grochla Krzysztof",
+        "date": "06.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Machnik Marzena",
+        "class": "2A",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "24",
+        "substitute": "Jastrzębska Katarzyna",
         "notes": ""
       },
       {
-        "date": "05.10.2026 poniedziałek",
+        "date": "06.10.2026 wtorek",
         "lesson": "2, 08:55-09:40",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "5B",
-        "subject": "Technika",
-        "room": "12g",
+        "teacher": "Machnik Marzena",
+        "class": "2A",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "s3",
+        "substitute": "Jastrzębska Katarzyna",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Machnik Marzena",
+        "class": "2A",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "24",
+        "substitute": "Panfil Alicja",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Machnik Marzena",
+        "class": "2A",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "24",
+        "substitute": "Jastrzębska Katarzyna",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Stephan Marlena",
+        "class": "8B",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Kania Beata",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Stephan Marlena",
+        "class": "8B",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Piasecki Marcin",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Stephan Marlena",
+        "class": "8A",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Stephan Marlena",
+        "class": "4B",
+        "subject": "Wychowanie fizyczne",
+        "room": "s1",
         "substitute": "Skudrzyk Agnieszka",
         "notes": ""
       },
       {
-        "date": "05.10.2026 poniedziałek",
+        "date": "06.10.2026 wtorek",
         "lesson": "08:50-09:50",
         "teacher": "Kempny-Lenartowicz Małgorzata",
         "class": "Dziennik świetlicy - budynek B",
         "subject": "Świetlica",
         "room": "",
-        "substitute": "Żelazny Bogusław",
+        "substitute": "Kurpanik Aleksandra",
         "notes": ""
       },
       {
-        "date": "05.10.2026 poniedziałek",
-        "lesson": "13:40-14:40",
+        "date": "06.10.2026 wtorek",
+        "lesson": "14:25-15:25",
         "teacher": "Machnik Marzena",
         "class": "Dziennik rewalidacji - 6a",
         "subject": "zajęcia rewalidacyjne",
+        "room": "",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "06:50-07:50",
+        "teacher": "Stephan Marlena",
+        "class": "Dzirnnik rewalidacji 2c",
+        "subject": "Rewalidacje",
+        "room": "",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "12:30-13:30",
+        "teacher": "Stephan Marlena",
+        "class": "Dzirnnik rewalidacji -3b",
+        "subject": "Rewalidacje",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "06.10.2026 wtorek",
+        "lesson": "13:30-14:30",
+        "teacher": "Stephan Marlena",
+        "class": "Dzirnnik rewalidacji - 3a",
+        "subject": "Rewalidacje",
         "room": "",
         "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
