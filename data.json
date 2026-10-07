@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-10-06T12:23:02.048031+00:00",
+  "updated_at": "2026-10-07T12:16:32.713208+00:00",
   "classes": [
     {
       "name": "8a",
@@ -29361,103 +29361,383 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "07.10.2026 środa",
+        "date": "08.10.2026 czwartek",
         "lesson": "1, 08:00-08:45",
-        "teacher": "Marcol Barbara",
-        "class": "8B",
-        "subject": "Biologia",
-        "room": "30g",
-        "substitute": "Myszkowski Krzysztof",
-        "notes": "Zamiast lekcji 7"
-      },
-      {
-        "date": "07.10.2026 środa",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Marcol Barbara",
-        "class": "7C",
-        "subject": "Chemia",
-        "room": "30g",
-        "substitute": "Stephan Marlena",
+        "teacher": "Bociek Katarzyna",
+        "class": "4C|5os.",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
         "notes": ""
       },
       {
-        "date": "07.10.2026 środa",
+        "date": "08.10.2026 czwartek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Bociek Katarzyna",
+        "class": "4A",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Bociek Katarzyna",
+        "class": "4A",
+        "subject": "Język polski",
+        "room": "26",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Bociek Katarzyna",
+        "class": "7A",
+        "subject": "Język polski",
+        "room": "24g",
+        "substitute": "Plaza-Kiersztyn Alina",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5B|5os.",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5A|5os.",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5C|5os.",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5A",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5A",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5C",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Gawlik Katarzyna",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Marcol Barbara",
+        "class": "8C",
+        "subject": "Biologia",
+        "room": "30g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Marcol Barbara",
+        "class": "8A",
+        "subject": "Chemia",
+        "room": "30g",
+        "substitute": "Piasecki Marcin",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
         "lesson": "3, 09:50-10:35",
         "teacher": "Marcol Barbara",
         "class": "7A",
-        "subject": "Chemia",
+        "subject": "Biologia",
         "room": "30g",
-        "substitute": "Stephan Marlena",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
         "notes": ""
       },
       {
-        "date": "07.10.2026 środa",
+        "date": "08.10.2026 czwartek",
         "lesson": "4, 10:45-11:30",
         "teacher": "Marcol Barbara",
-        "class": "8C",
-        "subject": "Chemia",
+        "class": "7B",
+        "subject": "Biologia",
+        "room": "30g",
+        "substitute": "Buchta Barbara",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Marcol Barbara",
+        "class": "7C",
+        "subject": "Biologia",
         "room": "30g",
         "substitute": "Grochla Krzysztof",
         "notes": ""
       },
       {
-        "date": "07.10.2026 środa",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Marcol Barbara",
-        "class": "7A",
-        "subject": "Biologia",
-        "room": "30g",
-        "substitute": "Widawska Katarzyna",
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "9",
+        "substitute": "Papiernik Joanna",
         "notes": ""
       },
       {
-        "date": "07.10.2026 środa",
-        "lesson": "6, 12:50-13:35",
-        "teacher": "Marcol Barbara",
-        "class": "7B",
-        "subject": "Chemia",
-        "room": "30g",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "07.10.2026 środa",
-        "lesson": "7, 13:45-14:30",
-        "teacher": "Marcol Barbara",
-        "class": "7B",
-        "subject": "Biologia",
-        "room": "30g",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "07.10.2026 środa",
+        "date": "08.10.2026 czwartek",
         "lesson": "2, 08:55-09:40",
-        "teacher": "Unruh Ewa",
-        "class": "6C|G 1",
-        "subject": "Język angielski",
-        "room": "15g",
-        "substitute": "Hadam Aleksandra",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "9",
+        "substitute": "Kurpanik Aleksandra",
         "notes": ""
       },
       {
-        "date": "07.10.2026 środa",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Widawska Katarzyna",
-        "class": "6A",
-        "subject": "Matematyka",
-        "room": "26g",
+        "date": "08.10.2026 czwartek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "9",
         "substitute": "Plaza-Kiersztyn Alina",
         "notes": ""
       },
       {
-        "date": "07.10.2026 środa",
+        "date": "08.10.2026 czwartek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "9",
+        "substitute": "Machnik Marzena",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Panfil Alicja",
+        "class": "4B",
+        "subject": "Język angielski",
+        "room": "28",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Panfil Alicja",
+        "class": "4B",
+        "subject": "Zajęcia z wychowawcą",
+        "room": "28",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
         "lesson": "3, 09:50-10:35",
+        "teacher": "Panfil Alicja",
+        "class": "2A",
+        "subject": "Język angielski",
+        "room": "24",
+        "substitute": "Machnik Marzena",
+        "notes": "zamiast ostatniej lekcji"
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Unruh Ewa",
+        "class": "6C|G 1",
+        "subject": "Język angielski",
+        "room": "15g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Unruh Ewa",
+        "class": "6B|5os.",
+        "subject": "Język angielski",
+        "room": "15g",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Unruh Ewa",
+        "class": "3C",
+        "subject": "Język angielski",
+        "room": "5",
+        "substitute": "Szyk Urszula",
+        "notes": "Zamiast 5 lekcji"
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Unruh Ewa",
+        "class": "3A",
+        "subject": "Język angielski",
+        "room": "15",
+        "substitute": "Ludwiczak Joanna",
+        "notes": "Zamiast 5 lekcji"
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Unruh Ewa",
+        "class": "4C",
+        "subject": "Język angielski",
+        "room": "28",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "2, 08:55-09:40",
         "teacher": "Widawska Katarzyna",
         "class": "6B",
         "subject": "Matematyka",
         "room": "26g",
-        "substitute": "Kurpanik Aleksandra",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Widawska Katarzyna",
+        "class": "6A",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Piasecki Marcin",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Widawska Katarzyna",
+        "class": "6A",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Widawska Katarzyna",
+        "class": "8C",
+        "subject": "Matematyka",
+        "room": "26g",
+        "substitute": "Grochla Krzysztof",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Wyrobek Izabela",
+        "class": "4C",
+        "subject": "Matematyka",
+        "room": "25",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Wyrobek Izabela",
+        "class": "4C",
+        "subject": "Zajęcia z wychowawcą",
+        "room": "25",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Wyrobek Izabela",
+        "class": "5B",
+        "subject": "Matematyka",
+        "room": "13g",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Wyrobek Izabela",
+        "class": "5C",
+        "subject": "Matematyka",
+        "room": "13g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "07:10-07:55",
+        "teacher": "Widawska Katarzyna",
+        "class": "ZRK- 6b",
+        "subject": "Zajęcia rozwijające kreatywność - matematyka",
+        "room": "26g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "07:50-08:50",
+        "teacher": "Drapacz Aleksandra",
+        "class": "Dziennik rewalidacji - 5a",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "27g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "08.10.2026 czwartek",
+        "lesson": "10:30-11:30",
+        "teacher": "Panfil Alicja",
+        "class": "Dzienik świetlicy - budynek A",
+        "subject": "Świetlica",
+        "room": "4",
+        "substitute": "Plaza-Kiersztyn Alina",
         "notes": ""
       }
     ]
