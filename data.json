@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-10-09T12:15:15.003863+00:00",
+  "updated_at": "2026-10-12T13:49:18.908127+00:00",
   "classes": [
     {
       "name": "8a",
@@ -29361,63 +29361,363 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "12.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Michalik Aleksandra",
-        "class": "3B",
-        "subject": "Edukacja muzyczna",
-        "room": "9",
-        "substitute": "Czarnecka Celina",
-        "notes": ""
-      },
-      {
-        "date": "12.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Michalik Aleksandra",
-        "class": "3B",
-        "subject": "Edukacja polonistyczna",
-        "room": "9",
-        "substitute": "Papiernik Joanna",
-        "notes": ""
-      },
-      {
-        "date": "12.10.2026 poniedziałek",
+        "date": "13.10.2026 wtorek",
         "lesson": "4, 10:45-11:30",
-        "teacher": "Michalik Aleksandra",
-        "class": "3B",
-        "subject": "Edukacja matematyczna",
-        "room": "9",
-        "substitute": "Marcol 1-3 Barbara",
+        "teacher": "Grochla Krzysztof",
+        "class": "5A",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg2",
+        "substitute": "Drapacz Aleksandra",
         "notes": ""
       },
       {
-        "date": "12.10.2026 poniedziałek",
+        "date": "13.10.2026 wtorek",
         "lesson": "5, 11:45-12:30",
-        "teacher": "Michalik Aleksandra",
-        "class": "3B",
-        "subject": "Wychowanie fizyczne 1-3",
-        "room": "s3",
+        "teacher": "Grochla Krzysztof",
+        "class": "8C",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg2",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Herdzina Beata",
+        "class": "7B",
+        "subject": "Muzyka",
+        "room": "25g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Herdzina Beata",
+        "class": "7C",
+        "subject": "Muzyka",
+        "room": "25g",
+        "substitute": "Plaza-Kiersztyn Alina",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Herdzina Beata",
+        "class": "7C",
+        "subject": "Geografia",
+        "room": "25g",
+        "substitute": "Skudrzyk Agnieszka",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Herdzina Beata",
+        "class": "5C",
+        "subject": "Geografia",
+        "room": "25g",
+        "substitute": "Skudrzyk Agnieszka",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Herdzina Beata",
+        "class": "6B",
+        "subject": "Muzyka",
+        "room": "25g",
+        "substitute": "Brudny Agnieszka",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Herdzina Beata",
+        "class": "7B",
+        "subject": "Geografia",
+        "room": "25g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "7, 13:45-14:30",
+        "teacher": "Herdzina Beata",
+        "class": "7A",
+        "subject": "Geografia",
+        "room": "25g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Kielech Jerzy",
+        "class": "4A",
+        "subject": "Matematyka",
+        "room": "25",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Kielech Jerzy",
+        "class": "4B",
+        "subject": "Matematyka",
+        "room": "25",
+        "substitute": "Jastrzębska Katarzyna",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Kielech Jerzy",
+        "class": "7B",
+        "subject": "Matematyka",
+        "room": "13g",
+        "substitute": "Wojtyńska Edyta",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Kielech Jerzy",
+        "class": "8B",
+        "subject": "Matematyka",
+        "room": "13g",
+        "substitute": "Wojtyńska Edyta",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Kielech Jerzy",
+        "class": "5A",
+        "subject": "Matematyka",
+        "room": "13g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Kogutowicz Dorota",
+        "class": "6A|G 2",
+        "subject": "Język angielski",
+        "room": "14g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Kogutowicz Dorota",
+        "class": "8B",
+        "subject": "Język angielski",
+        "room": "14g",
+        "substitute": "Brudny Agnieszka",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Kogutowicz Dorota",
+        "class": "7C",
+        "subject": "Język angielski",
+        "room": "14g",
+        "substitute": "Wyrobek Izabela",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Kogutowicz Dorota",
+        "class": "5B|do 5 ang",
+        "subject": "Język angielski",
+        "room": "12g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Kogutowicz Dorota",
+        "class": "5A|5os.",
+        "subject": "Język angielski",
+        "room": "12g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Kogutowicz Dorota",
+        "class": "5C|5os.",
+        "subject": "Język angielski",
+        "room": "12g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Panfil Alicja",
+        "class": "5A",
+        "subject": "Język angielski",
+        "room": "13g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Panfil Alicja",
+        "class": "6A|G 1",
+        "subject": "Język angielski",
+        "room": "13g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Piasecki Marcin",
+        "class": "8A",
+        "subject": "Język angielski",
+        "room": "11g",
+        "substitute": "Kurpanik Aleksandra",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Piasecki Marcin",
+        "class": "7B",
+        "subject": "Język angielski",
+        "room": "11g",
+        "substitute": "Wojtyńska Edyta",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Piasecki Marcin",
+        "class": "8C",
+        "subject": "Język angielski",
+        "room": "11g",
+        "substitute": "Myszkowski Krzysztof",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Pietrek Beata",
+        "class": "5C",
+        "subject": "Plastyka",
+        "room": "40g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Pietrek Beata",
+        "class": "7B",
+        "subject": "Plastyka",
+        "room": "40g",
+        "substitute": "Wojt6yńska Edyta",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "6.12:50 -13:35",
+        "teacher": "Żelazny Bogusław",
+        "class": "7A",
+        "subject": "Infor,atyka",
+        "room": "6g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "10:30-11:30",
+        "teacher": "Panfil Alicja",
+        "class": "Dzienik świetlicy - budynek A",
+        "subject": "Świetlica",
+        "room": "4",
+        "substitute": "Babczyńska Aleksandra",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "11:30-12:30",
+        "teacher": "Panfil Alicja",
+        "class": "Dzienik świetlicy - budynek A",
+        "subject": "Świetlica",
+        "room": "4",
         "substitute": "Czarnecka Celina",
         "notes": ""
       },
       {
-        "date": "12.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Żelazny Bogusław",
-        "class": "6B|G 1",
-        "subject": "Informatyka",
-        "room": "6g",
+        "date": "13.10.2026 wtorek",
+        "lesson": "12:30-13:30",
+        "teacher": "Panfil Alicja",
+        "class": "Dzienik świetlicy - budynek A",
+        "subject": "Świetlica",
+        "room": "4",
         "substitute": "Kempny-Lenartowicz Małgorzata",
         "notes": ""
       },
       {
-        "date": "12.10.2026 poniedziałek",
-        "lesson": "12:50-13:35",
-        "teacher": "Michalik Aleksandra",
-        "class": "ZRK-3b",
-        "subject": "Zajęcia rozwijające kreatywność",
-        "room": "9",
-        "substitute": "Kajtoch Małgorzata",
+        "date": "13.10.2026 wtorek",
+        "lesson": "13:30-14:30",
+        "teacher": "Panfil Alicja",
+        "class": "Dzienik świetlicy - budynek A",
+        "subject": "Świetlica",
+        "room": "4",
+        "substitute": "Stokłosa Iwona",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "14:30-15:30",
+        "teacher": "Panfil Alicja",
+        "class": "Dzienik świetlicy - budynek A",
+        "subject": "Świetlica",
+        "room": "4",
+        "substitute": "Stokłosa Iwona",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "07:00-08:00",
+        "teacher": "Pietrek Beata",
+        "class": "Dziennik rewalidacji 8b",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "40g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "10:45-11:45",
+        "teacher": "Pietrek Beata",
+        "class": "Dziennik rewalidacji 6b",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "40g",
+        "substitute": "Widawska Katarzyna",
+        "notes": ""
+      },
+      {
+        "date": "13.10.2026 wtorek",
+        "lesson": "11:45-12:45",
+        "teacher": "Pietrek Beata",
+        "class": "Dziennik rewalidacji 5c",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "40g",
+        "substitute": "Drapacz Aleksandra",
         "notes": ""
       }
     ]
