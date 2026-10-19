@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-10-16T10:19:05.265572+00:00",
+  "updated_at": "2026-10-19T11:29:41.752289+00:00",
   "classes": [
     {
       "name": "8a",
@@ -29361,68 +29361,78 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
+        "date": "20.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
         "teacher": "Herdzina Beata",
-        "class": "8A",
-        "subject": "Geografia",
-        "room": "25g",
-        "substitute": "Grochla Krzysztof",
-        "notes": ""
-      },
-      {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Herdzina Beata",
-        "class": "5A",
+        "class": "7B",
         "subject": "Muzyka",
         "room": "25g",
-        "substitute": "Plaza-Kiersztyn Alina",
+        "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "19.10.2026 poniedziałek",
+        "date": "20.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Herdzina Beata",
+        "class": "7C",
+        "subject": "Muzyka",
+        "room": "25g",
+        "substitute": "Wojtyńska Edyta",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Herdzina Beata",
+        "class": "7C",
+        "subject": "Geografia",
+        "room": "25g",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
         "lesson": "4, 10:45-11:30",
+        "teacher": "Herdzina Beata",
+        "class": "5C",
+        "subject": "Geografia",
+        "room": "25g",
+        "substitute": "Wojtyńska Edyta",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Herdzina Beata",
+        "class": "6B",
+        "subject": "Muzyka",
+        "room": "25g",
+        "substitute": "Żelazny Bogusław",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "6, 12:50-13:35",
         "teacher": "Herdzina Beata",
         "class": "7B",
         "subject": "Geografia",
         "room": "25g",
-        "substitute": "Stephan Marlena",
+        "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       },
       {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Machnik Laura",
-        "class": "1C",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "16",
-        "substitute": "Szyk Urszula",
+        "date": "20.10.2026 wtorek",
+        "lesson": "7, 13:45-14:30",
+        "teacher": "Herdzina Beata",
+        "class": "7A",
+        "subject": "Geografia",
+        "room": "25g",
+        "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       },
       {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Machnik Laura",
-        "class": "1C",
-        "subject": "Edukacja wczesnoszkolna",
-        "room": "16",
-        "substitute": "Machnik Marzena",
-        "notes": ""
-      },
-      {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Michalik Aleksandra",
-        "class": "3B",
-        "subject": "Edukacja muzyczna",
-        "room": "9",
-        "substitute": "Czarnecka Celina",
-        "notes": ""
-      },
-      {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
+        "date": "20.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
         "subject": "Edukacja polonistyczna",
@@ -29431,8 +29441,8 @@
         "notes": ""
       },
       {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "4, 10:45-11:30",
+        "date": "20.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
         "subject": "Edukacja matematyczna",
@@ -29441,53 +29451,93 @@
         "notes": ""
       },
       {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Michalik Aleksandra",
-        "class": "3B",
-        "subject": "Wychowanie fizyczne 1-3",
-        "room": "s3",
-        "substitute": "Czarnecka Celina",
-        "notes": ""
-      },
-      {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Widawska Katarzyna",
-        "class": "6B",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Skudrzyk Agnieszka",
-        "notes": ""
-      },
-      {
-        "date": "19.10.2026 poniedziałek",
+        "date": "20.10.2026 wtorek",
         "lesson": "3, 09:50-10:35",
-        "teacher": "Widawska Katarzyna",
-        "class": "7A",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Kielech Jerzy",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "5C",
+        "subject": "Technika",
+        "room": "12g",
+        "substitute": "Pietrek Beata",
+        "notes": "5c na 8.55"
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "6A",
+        "subject": "Technika",
+        "room": "12g",
+        "substitute": "Brudny Agnieszka",
         "notes": ""
       },
       {
-        "date": "19.10.2026 poniedziałek",
+        "date": "20.10.2026 wtorek",
         "lesson": "5, 11:45-12:30",
-        "teacher": "Widawska Katarzyna",
-        "class": "8A",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "5A",
+        "subject": "Technika",
+        "room": "12g",
+        "substitute": "Piasecki Marcin",
         "notes": ""
       },
       {
-        "date": "19.10.2026 poniedziałek",
-        "lesson": "12:50-13:35",
-        "teacher": "Michalik Aleksandra",
-        "class": "ZRK-3b",
-        "subject": "Zajęcia rozwijające kreatywność",
-        "room": "9",
-        "substitute": "Kajtoch Małgorzata",
+        "date": "20.10.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Skudrzyk Agnieszka",
+        "class": "6C",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg2",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Skudrzyk Agnieszka",
+        "class": "7A",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg2",
+        "substitute": "Kurpanik Aleksandra",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "07:00-08:00",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "Dziennik rewalidacji -8b",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "08:00-08:45",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "Dziennik rewalidacji - 7c",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "11:30-13:30",
+        "teacher": "Skudrzyk Agnieszka",
+        "class": "Dziennik rewalidacji - 2a",
+        "subject": "Zajęcia usprawniające - ruchowe",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "20.10.2026 wtorek",
+        "lesson": "13:35-15:35",
+        "teacher": "Skudrzyk Agnieszka",
+        "class": "Dziennik rewalidacji - 4c",
+        "subject": "Zajęcia usprawniające - ruchowe",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       }
     ]
