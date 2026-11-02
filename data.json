@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-10-30T11:50:24.824218+00:00",
+  "updated_at": "2026-11-02T14:06:06.452952+00:00",
   "classes": [
     {
       "name": "8a",
@@ -349,9 +349,9 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "Sa",
-              "room": "sg1",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -427,9 +427,9 @@
               "group": ""
             },
             {
-              "subject": "zaj. wych.",
-              "teacher": "Pl",
-              "room": "25g",
+              "subject": "wf",
+              "teacher": "Sa",
+              "room": "sg1",
               "group": ""
             },
             {
@@ -565,9 +565,9 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "zaj. wych.",
+              "teacher": "Pl",
+              "room": "30g",
               "group": ""
             },
             {
@@ -1817,9 +1817,9 @@
               "group": ""
             },
             {
-              "subject": "biologia",
-              "teacher": "MO",
-              "room": "30g",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -1835,9 +1835,9 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "biologia",
+              "teacher": "MO",
+              "room": "30g",
               "group": ""
             }
           ]
@@ -4588,12 +4588,6 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
-              "room": "9",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -4608,13 +4602,19 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Ma",
-              "room": "9",
+              "room": "23",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "Ma",
-              "room": "23",
+              "room": "9",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -4666,8 +4666,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "j.angielski",
+              "teacher": "KE",
               "room": "9",
               "group": ""
             },
@@ -4678,15 +4678,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "j.angielski",
+              "teacher": "KE",
               "room": "9",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "Ma",
-              "room": "s1",
+              "room": "9",
               "group": ""
             }
           ]
@@ -4698,13 +4698,13 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Ma",
-              "room": "s3",
+              "room": "9",
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "KE",
-              "room": "9",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -4732,6 +4732,12 @@
           "time": "11:45-12:30",
           "days": [
             {
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
+              "room": "s3",
+              "group": ""
+            },
+            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -4740,7 +4746,31 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Ma",
-              "room": "s1",
+              "room": "s3",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
+              "room": "9",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
+              "room": "9",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -4750,9 +4780,15 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "KE",
-              "room": "9",
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -4817,9 +4853,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Su",
-              "room": "5",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -4853,9 +4889,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Su",
-              "room": "5",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -4955,15 +4991,15 @@
           "time": "11:45-12:30",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Su",
+              "room": "5",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Su",
+              "room": "5",
               "group": ""
             },
             {
@@ -5709,9 +5745,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
-              "room": "18",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -5727,9 +5763,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
-              "room": "18",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -5757,15 +5793,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
-              "room": "18",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
-              "room": "18",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -5847,21 +5883,57 @@
           "time": "11:45-12:30",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
+              "room": "18",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
+              "room": "18",
               "group": ""
             },
             {
               "subject": "religia",
               "teacher": "PG",
               "room": "18",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
+              "room": "18",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
+              "room": "18",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -6155,6 +6227,12 @@
               "group": ""
             },
             {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
               "subject": "e_wczesnoszk",
               "teacher": "Mb",
               "room": "8",
@@ -6171,12 +6249,6 @@
               "teacher": "Mb",
               "room": "s3",
               "group": ""
-            },
-            {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
-              "room": "s1",
-              "group": ""
             }
           ]
         },
@@ -6191,15 +6263,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
-              "room": "8",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "Mb",
-              "room": "8",
+              "room": "s3",
               "group": ""
             },
             {
@@ -6275,9 +6347,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
-              "room": "8",
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -6293,6 +6365,24 @@
           "time": "11:45-12:30",
           "days": [
             {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
+              "room": "8",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
+              "room": "8",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
+              "room": "22",
+              "group": ""
+            },
+            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -6301,13 +6391,31 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Mb",
-              "room": "s3",
+              "room": "8",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "Mb",
-              "room": "22",
+              "room": "s1",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -8138,6 +8246,42 @@
               "group": ""
             }
           ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            }
+          ]
         }
       ]
     },
@@ -8416,6 +8560,12 @@
               "group": ""
             },
             {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
               "subject": "e_wczesnoszk",
               "teacher": "",
               "room": "8",
@@ -8432,12 +8582,6 @@
               "teacher": "",
               "room": "s3",
               "group": ""
-            },
-            {
-              "subject": "e_wczesnoszk",
-              "teacher": "",
-              "room": "s1",
-              "group": ""
             }
           ]
         },
@@ -8452,15 +8596,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "8",
+              "room": "",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "8",
+              "room": "s3",
               "group": ""
             },
             {
@@ -8536,9 +8680,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "8",
+              "room": "",
               "group": ""
             },
             {
@@ -8554,6 +8698,24 @@
           "time": "11:45-12:30",
           "days": [
             {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "8",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "8",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "22",
+              "group": ""
+            },
+            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -8562,13 +8724,31 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "s3",
+              "room": "8",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "22",
+              "room": "s1",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -8862,9 +9042,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "18",
+              "room": "",
               "group": ""
             },
             {
@@ -8880,9 +9060,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "18",
+              "room": "",
               "group": ""
             }
           ]
@@ -8910,15 +9090,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "18",
+              "room": "",
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "18",
+              "room": "",
               "group": ""
             }
           ]
@@ -8998,6 +9178,42 @@
         {
           "lesson_nr": "5",
           "time": "11:45-12:30",
+          "days": [
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "18",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "18",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "18",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "18",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
           "days": [
             {
               "subject": "",
@@ -9214,6 +9430,42 @@
               "subject": "e_wczesnoszk",
               "teacher": "",
               "room": "17",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "5",
+          "time": "11:45-12:30",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -9525,12 +9777,6 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "",
-              "room": "9",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -9545,13 +9791,19 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "9",
+              "room": "23",
               "group": ""
             },
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "23",
+              "room": "9",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             }
           ]
@@ -9603,9 +9855,15 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "9",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -9619,12 +9877,6 @@
               "teacher": "",
               "room": "9",
               "group": ""
-            },
-            {
-              "subject": "e_wczesnoszk",
-              "teacher": "",
-              "room": "s1",
-              "group": ""
             }
           ]
         },
@@ -9635,7 +9887,7 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "s3",
+              "room": "9",
               "group": ""
             },
             {
@@ -9669,6 +9921,12 @@
           "time": "11:45-12:30",
           "days": [
             {
+              "subject": "e_wczesnoszk",
+              "teacher": "",
+              "room": "s3",
+              "group": ""
+            },
+            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -9677,25 +9935,19 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "s1",
+              "room": "s3",
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "9",
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
+              "room": "9",
               "group": ""
             }
           ]
@@ -9754,9 +10006,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "5",
+              "room": "",
               "group": ""
             },
             {
@@ -9790,9 +10042,9 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
+              "subject": "",
               "teacher": "",
-              "room": "5",
+              "room": "",
               "group": ""
             },
             {
@@ -9892,15 +10144,15 @@
           "time": "11:45-12:30",
           "days": [
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "5",
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "e_wczesnoszk",
               "teacher": "",
-              "room": "",
+              "room": "5",
               "group": ""
             },
             {
@@ -9913,6 +10165,42 @@
               "subject": "e_wczesnoszk",
               "teacher": "",
               "room": "s3",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
               "group": ""
             },
             {
@@ -11603,9 +11891,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "j.angielski",
               "teacher": "",
-              "room": "",
+              "room": "9",
               "group": ""
             },
             {
@@ -11615,9 +11903,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "j.angielski",
               "teacher": "",
-              "room": "",
+              "room": "9",
               "group": ""
             },
             {
@@ -11639,9 +11927,9 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
+              "subject": "",
               "teacher": "",
-              "room": "9",
+              "room": "",
               "group": ""
             },
             {
@@ -11687,9 +11975,9 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
+              "subject": "",
               "teacher": "",
-              "room": "9",
+              "room": "",
               "group": ""
             },
             {
@@ -14769,9 +15057,9 @@
               "group": ""
             },
             {
-              "subject": "biologia",
+              "subject": "",
               "teacher": "",
-              "room": "30g",
+              "room": "",
               "group": ""
             },
             {
@@ -14787,9 +15075,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "biologia",
               "teacher": "",
-              "room": "",
+              "room": "30g",
               "group": ""
             }
           ]
@@ -14926,9 +15214,9 @@
               "group": ""
             },
             {
-              "subject": "zaj. wych.",
+              "subject": "",
               "teacher": "",
-              "room": "25g",
+              "room": "",
               "group": ""
             },
             {
@@ -15031,6 +15319,42 @@
               "subject": "",
               "teacher": "",
               "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "7",
+          "time": "13:45-14:30",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "zaj. wych.",
+              "teacher": "",
+              "room": "30g",
               "group": ""
             },
             {
@@ -17395,9 +17719,9 @@
               "group": ""
             },
             {
-              "subject": "wf",
+              "subject": "",
               "teacher": "",
-              "room": "sg1",
+              "room": "",
               "group": ""
             },
             {
@@ -17473,9 +17797,9 @@
               "group": ""
             },
             {
-              "subject": "",
+              "subject": "wf",
               "teacher": "",
-              "room": "",
+              "room": "sg1",
               "group": ""
             },
             {
@@ -18627,8 +18951,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Su",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -18663,8 +18987,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Su",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -18749,6 +19073,42 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Su",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "5",
+          "time": "11:45-12:30",
+          "days": [
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Su",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Su",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -19260,20 +19620,20 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
-              "room": "",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
               "room": "",
               "group": ""
             },
@@ -19296,14 +19656,14 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -19380,14 +19740,50 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
               "subject": "j.angielski",
               "teacher": "DK",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "5",
+          "time": "11:45-12:30",
+          "days": [
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
               "room": "",
               "group": ""
             }
@@ -19441,12 +19837,6 @@
           "time": "8:00- 8:45",
           "days": [
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
-              "room": "",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -19455,6 +19845,12 @@
             {
               "subject": "e_wczesnoszk",
               "teacher": "Ma",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -19519,8 +19915,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "j.angielski",
+              "teacher": "KE",
               "room": "",
               "group": ""
             },
@@ -19531,14 +19927,14 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "j.angielski",
+              "teacher": "KE",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
               "room": "",
               "group": ""
             }
@@ -19549,14 +19945,14 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
               "room": "",
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "KE",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -19603,14 +19999,14 @@
               "group": ""
             },
             {
-              "subject": "j.angielski",
-              "teacher": "KE",
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
               "room": "",
               "group": ""
             }
@@ -20375,12 +20771,6 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
-              "room": "",
-              "group": ""
-            },
-            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -20393,8 +20783,14 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -20423,14 +20819,14 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Pj",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -20513,20 +20909,56 @@
           "time": "11:45-12:30",
           "days": [
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
               "room": "",
               "group": ""
             },
             {
               "subject": "religia",
               "teacher": "PG",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "e_wczesnoszk",
+              "teacher": "Pj",
+              "room": "",
+              "group": ""
+            }
+          ]
+        },
+        {
+          "lesson_nr": "6",
+          "time": "12:50-13:35",
+          "days": [
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -21014,20 +21446,20 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
-              "room": "",
-              "group": ""
-            },
-            {
               "subject": "e_wczesnoszk",
               "teacher": "Ma",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
+              "room": "",
+              "group": ""
+            },
+            {
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -22601,8 +23033,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -22673,8 +23105,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             }
@@ -22727,8 +23159,8 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -22763,8 +23195,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
               "room": "",
               "group": ""
             },
@@ -23005,14 +23437,14 @@
               "group": ""
             },
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Mb",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
               "room": "",
               "group": ""
             }
@@ -23035,8 +23467,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "e_wczesnoszk",
+              "teacher": "Mb",
               "room": "",
               "group": ""
             },
@@ -23095,8 +23527,8 @@
           "time": "10:45-11:30",
           "days": [
             {
-              "subject": "e_wczesnoszk",
-              "teacher": "Ma",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -23131,6 +23563,12 @@
           "time": "11:45-12:30",
           "days": [
             {
+              "subject": "e_wczesnoszk",
+              "teacher": "Ma",
+              "room": "",
+              "group": ""
+            },
+            {
               "subject": "",
               "teacher": "",
               "room": "",
@@ -23138,13 +23576,7 @@
             },
             {
               "subject": "e_wczesnoszk",
-              "teacher": "Mb",
-              "room": "",
-              "group": ""
-            },
-            {
-              "subject": "",
-              "teacher": "",
+              "teacher": "Ma",
               "room": "",
               "group": ""
             },
@@ -26681,8 +27113,8 @@
               "group": ""
             },
             {
-              "subject": "zaj. wych.",
-              "teacher": "Pl",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -28222,8 +28654,8 @@
               "group": ""
             },
             {
-              "subject": "biologia",
-              "teacher": "MO",
+              "subject": "zaj. wych.",
+              "teacher": "Pl",
               "room": "",
               "group": ""
             },
@@ -28240,8 +28672,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "biologia",
+              "teacher": "MO",
               "room": "",
               "group": ""
             }
@@ -28596,8 +29028,8 @@
               "group": ""
             },
             {
-              "subject": "wf",
-              "teacher": "Sa",
+              "subject": "",
+              "teacher": "",
               "room": "",
               "group": ""
             },
@@ -28674,8 +29106,8 @@
               "group": ""
             },
             {
-              "subject": "",
-              "teacher": "",
+              "subject": "wf",
+              "teacher": "Sa",
               "room": "",
               "group": ""
             },
@@ -29361,153 +29793,253 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "02.11.2026 poniedziałek",
+        "date": "03.11.2026 wtorek",
         "lesson": "4, 10:45-11:30",
-        "teacher": "Grochla Krzysztof",
-        "class": "5A",
+        "teacher": "Grabowska Joanna",
+        "class": "8A",
+        "subject": "Język polski",
+        "room": "29g",
+        "substitute": "Myszkowski Krzysztof",
+        "notes": "Zamiast lekcji 7"
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "8C",
+        "subject": "Edukacja dla bezpieczeństwa",
+        "room": "24g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "8B",
+        "subject": "Edukacja dla bezpieczeństwa",
+        "room": "24g",
+        "substitute": "Kogutowicz Dorota",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "5B",
         "subject": "Wychowanie fizyczne",
         "room": "sg1",
-        "substitute": "Kurpanik Aleksandra",
+        "substitute": "Żelazny Bogusław",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
+        "date": "03.11.2026 wtorek",
         "lesson": "5, 11:45-12:30",
-        "teacher": "Grochla Krzysztof",
-        "class": "5A",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "5B",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Żelazny Bogusław",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "6A",
         "subject": "Wychowanie fizyczne",
         "room": "sg2",
-        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Kogutowicz Dorota",
+        "date": "03.11.2026 wtorek",
+        "lesson": "7, 13:45-14:30",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "6A",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Machnik Laura",
         "class": "1C",
-        "subject": "Język angielski",
+        "subject": "Edukacja wczesnoszkolna",
         "room": "16",
-        "substitute": "Jastrzębska Katarzyna",
+        "substitute": "Marcol 1-3 Barbara",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
+        "date": "03.11.2026 wtorek",
         "lesson": "2, 08:55-09:40",
         "teacher": "Machnik Laura",
         "class": "1C",
         "subject": "Edukacja wczesnoszkolna",
         "room": "16",
-        "substitute": "Panfil Alicja",
+        "substitute": "Szyk Urszula",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
+        "date": "03.11.2026 wtorek",
         "lesson": "3, 09:50-10:35",
         "teacher": "Machnik Laura",
         "class": "1C",
         "subject": "Edukacja wczesnoszkolna",
         "room": "16",
-        "substitute": "Machnik Marzena",
+        "substitute": "Babczyńska Aleksandra",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
+        "date": "03.11.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Machnik Laura",
+        "class": "1C",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "16",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Machnik Laura",
+        "class": "1C",
+        "subject": "Edukacja wczesnoszkolna",
+        "room": "22",
+        "substitute": "Ludwiczak Joanna",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja polonistyczna",
+        "room": "9",
+        "substitute": "Papiernik Joanna",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
         "lesson": "2, 08:55-09:40",
+        "teacher": "Michalik Aleksandra",
+        "class": "3B",
+        "subject": "Edukacja matematyczna",
+        "room": "9",
+        "substitute": "Marcol 1-3 Barbara",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "3, 09:50-10:35",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "5B",
+        "class": "5C",
+        "subject": "Technika",
+        "room": "12g",
+        "substitute": "Pietrek Beata",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "6A",
         "subject": "Technika",
         "room": "12g",
         "substitute": "Skudrzyk Agnieszka",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4B",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Hadam Aleksandra",
-        "notes": "zamiast ostatniej lekcji"
-      },
-      {
-        "date": "02.11.2026 poniedziałek",
+        "date": "03.11.2026 wtorek",
         "lesson": "5, 11:45-12:30",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4C",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Ludwiczak Joanna",
+        "class": "5A",
+        "subject": "Technika",
+        "room": "12g",
+        "substitute": "Piasecki Marcin",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Unruh Ewa",
-        "class": "4C|5os.",
-        "subject": "Język angielski",
-        "room": "28",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Unruh Ewa",
-        "class": "3C",
-        "subject": "Język angielski",
-        "room": "5",
-        "substitute": "Szyk Urszula",
-        "notes": ""
-      },
-      {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Unruh Ewa",
-        "class": "2C",
-        "subject": "Język angielski",
-        "room": "18",
-        "substitute": "Marcol 1-3 Barbara",
-        "notes": ""
-      },
-      {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Unruh Ewa",
-        "class": "6C",
+        "date": "03.11.2026 wtorek",
+        "lesson": "7, 13:45-14:30",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "8B",
         "subject": "Zajęcia z wychowawcą",
-        "room": "15g",
-        "substitute": "Buchta Barbara",
+        "room": "30g",
+        "substitute": "Marcol Barbara",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "6, 12:50-13:35",
-        "teacher": "Unruh Ewa",
-        "class": "6C|G 1",
-        "subject": "Język angielski",
-        "room": "15g",
+        "date": "03.11.2026 wtorek",
+        "lesson": "11:30-12:30",
+        "teacher": "Brudny Agnieszka",
+        "class": "Dziennik rewalidacji - -2a",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "",
         "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "07:00-08:00",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "Dzirnnik rewalidacji - 8c",
-        "subject": "Zajęcia rewalidacyjne",
+        "date": "03.11.2026 wtorek",
+        "lesson": "12:30-13:30",
+        "teacher": "Brudny Agnieszka",
+        "class": "Dzirnnik rewalidacji - 6b",
+        "subject": "Zajęcie rewalidacyjne",
+        "room": "",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "12:50-13:35",
+        "teacher": "Grabowska Joanna",
+        "class": "ZRK - j.polski 8c -",
+        "subject": "Egzamin ósmklasisty",
+        "room": "29g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "13:45-14:30",
+        "teacher": "Grabowska Joanna",
+        "class": "ZRK - j.polski 8b",
+        "subject": "Egzamin ósmoklasisty",
+        "room": "29g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "06:55-07:55",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "Dziennik rewalidacji - 5b",
+        "subject": "Rewalidacja ruchowa",
         "room": "",
         "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "02.11.2026 poniedziałek",
-        "lesson": "13:45-14:45",
+        "date": "03.11.2026 wtorek",
+        "lesson": "07:00-08:00",
         "teacher": "Plaza-Kiersztyn Alina",
         "class": "Dziennik rewalidacji - 8b",
         "subject": "Zajęcia rewalidacyjne",
         "room": "",
-        "substitute": "Uczniowie zwolnieni do domu",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "03.11.2026 wtorek",
+        "lesson": "08:00-08:45",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "Dziennik rewalidacji - 7c",
+        "subject": "Zajęcia rewalidacyjne",
+        "room": "",
+        "substitute": "Uczniowie przychodzą później",
         "notes": ""
       }
     ]
