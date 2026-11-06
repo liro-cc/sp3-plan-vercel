@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-11-05T13:41:40.022223+00:00",
+  "updated_at": "2026-11-06T13:25:15.086982+00:00",
   "classes": [
     {
       "name": "8a",
@@ -29793,117 +29793,117 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "1, 08:00-08:45",
-        "teacher": "Herdzina Beata",
-        "class": "6C",
-        "subject": "Muzyka",
-        "room": "25g",
-        "substitute": "Unruh Ewa",
-        "notes": "Zamiast 6 lekcji"
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Herdzina Beata",
-        "class": "6C",
-        "subject": "Geografia",
-        "room": "25g",
-        "substitute": "Myszkowski Krzysztof",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5C",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5C",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5B",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Kielech Jerzy",
+        "notes": ""
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5B",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Bartoszek Mirella",
+        "notes": ""
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
         "lesson": "4, 10:45-11:30",
         "teacher": "Herdzina Beata",
-        "class": "8B",
+        "class": "7B",
         "subject": "Geografia",
         "room": "25g",
-        "substitute": "Grochla Krzysztof",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Herdzina Beata",
-        "class": "8C",
-        "subject": "Geografia",
-        "room": "25g",
-        "substitute": "Grochla Krzysztof",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "6, 12:50-13:35",
-        "teacher": "Herdzina Beata",
-        "class": "7C",
-        "subject": "Geografia",
-        "room": "25g",
-        "substitute": "Kempny-Lenartowicz Małgorzata",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "7, 13:45-14:30",
-        "teacher": "Herdzina Beata",
-        "class": "7A",
-        "subject": "Geografia",
-        "room": "25g",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Kurpanik Aleksandra",
-        "class": "5B",
-        "subject": "Wychowanie fizyczne",
-        "room": "sg1",
         "substitute": "Stephan Marlena",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
-        "lesson": "4, 10:45-11:30",
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "8A",
+        "subject": "Edukacja dla bezpieczeństwa",
+        "room": "18g",
+        "substitute": "Uczniowie przychodzą później",
+        "notes": ""
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "5A",
+        "subject": "Geografia",
+        "room": "24g",
+        "substitute": "Brudny Agnieszka",
+        "notes": ""
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "3, 09:50-10:35",
         "teacher": "Kurpanik Aleksandra",
         "class": "6A",
         "subject": "Wychowanie fizyczne",
-        "room": "sg1",
-        "substitute": "Stephan Marlena",
+        "room": "sg3",
+        "substitute": "Piasecki Marcin",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "5, 11:45-12:30",
-        "teacher": "Kurpanik Aleksandra",
-        "class": "4C",
-        "subject": "Wychowanie fizyczne",
-        "room": "s1",
-        "substitute": "Ludwiczak Joanna",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "6, 12:50-13:35",
         "teacher": "Kurpanik Aleksandra",
         "class": "4A",
         "subject": "Wychowanie fizyczne",
         "room": "s1",
+        "substitute": "Hadam Aleksandra",
+        "notes": "Zamiast lekcji 2"
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Kurpanik Aleksandra",
+        "class": "4C",
+        "subject": "Wychowanie fizyczne",
+        "room": "s1",
         "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "2, 08:55-09:40",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
-        "subject": "Edukacja polonistyczna",
+        "subject": "Edukacja muzyczna",
         "room": "9",
-        "substitute": "Papiernik Joanna",
+        "substitute": "Czarnecka Celina",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "3, 09:50-10:35",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
@@ -29913,7 +29913,7 @@
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "4, 10:45-11:30",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
@@ -29923,7 +29923,7 @@
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "5, 11:45-12:30",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
@@ -29933,197 +29933,77 @@
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4A",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Stokłosa Iwona",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "2, 08:55-09:40",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4A",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Jastrzębska Katarzyna",
+        "class": "5B",
+        "subject": "Technika",
+        "room": "12g",
+        "substitute": "Skudrzyk Agnieszka",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4C",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Bartoszek Mirella",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "4, 10:45-11:30",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4C",
+        "class": "4B",
         "subject": "Przyroda",
         "room": "ZT",
-        "substitute": "Bartoszek Mirella",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Skudrzyk Agnieszka",
-        "class": "7A",
-        "subject": "Zajęcia z wychowawcą",
-        "room": "24g",
-        "substitute": "Żelazny Bogusław",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Skudrzyk Agnieszka",
-        "class": "5C",
-        "subject": "Wychowanie fizyczne",
-        "room": "sg1",
-        "substitute": "Drapacz Aleksandra",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "7C",
-        "subject": "Język niemiecki",
-        "room": "12g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "7C",
-        "subject": "Język niemiecki",
-        "room": "12g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "8A",
-        "subject": "Język niemiecki",
-        "room": "12g",
-        "substitute": "Wojtyńska Edyta",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "8A",
-        "subject": "Język niemiecki",
-        "room": "12g",
         "substitute": "Hadam Aleksandra",
-        "notes": ""
+        "notes": "zamiast 6 lekcji"
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
         "lesson": "5, 11:45-12:30",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "7A",
-        "subject": "Język niemiecki",
-        "room": "12g",
-        "substitute": "Piasecki Marcin",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "4C",
+        "subject": "Przyroda",
+        "room": "ZT",
+        "substitute": "Ludwiczak Joanna",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
-        "lesson": "6, 12:50-13:35",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "7A",
-        "subject": "Język niemiecki",
-        "room": "12g",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "7, 13:45-14:30",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "8B",
-        "subject": "Język niemiecki",
-        "room": "12g",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "8, 14:40-15:25",
-        "teacher": "Sobik-Bukowska Patrycja",
-        "class": "8B",
-        "subject": "Język niemiecki",
-        "room": "12g",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Widawska Katarzyna",
-        "class": "8A",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Widawska Katarzyna",
-        "class": "7A",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Surma Wiktoria",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Widawska Katarzyna",
-        "class": "8C",
-        "subject": "Matematyka",
-        "room": "26g",
-        "substitute": "Kielech Jerzy",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Widawska Katarzyna",
-        "class": "6B",
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Unruh Ewa",
+        "class": "6C",
         "subject": "Zajęcia z wychowawcą",
-        "room": "26g",
-        "substitute": "Wojtyńska Edyta",
+        "room": "15g",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Widawska Katarzyna",
-        "class": "6B|5os.",
-        "subject": "Matematyka",
-        "room": "26g",
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Unruh Ewa",
+        "class": "6C|G 1",
+        "subject": "Język angielski",
+        "room": "15g",
         "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Wojtyńska Edyta",
+        "class": "7B",
+        "subject": "Język polski",
+        "room": "29g",
+        "substitute": "Niźnikiewicz Barbara",
+        "notes": ""
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "12:50-13:35",
+        "teacher": "Michalik Aleksandra",
+        "class": "ZRK-3b",
+        "subject": "Zajęcia rozwijające kreatywność",
+        "room": "9",
+        "substitute": "Kajtoch Małgorzata",
+        "notes": ""
+      },
+      {
+        "date": "09.11.2026 poniedziałek",
         "lesson": "07:00-08:00",
         "teacher": "Plaza-Kiersztyn Alina",
         "class": "Dzirnnik rewalidacji - 8c",
@@ -30133,43 +30013,13 @@
         "notes": ""
       },
       {
-        "date": "06.11.2026 piątek",
-        "lesson": "11:45-12:45",
+        "date": "09.11.2026 poniedziałek",
+        "lesson": "13:45-14:45",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "Dzirnnik rewalidacji --7a",
-        "subject": "Rewalidacja",
+        "class": "Dziennik rewalidacji - 8b",
+        "subject": "Zajęcia rewalidacyjne",
         "room": "",
         "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "12:45-13:45",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "Dzirnnik rewalidacji - -7a",
-        "subject": "Rewalidacja",
-        "room": "",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "12:30-13:30",
-        "teacher": "Skudrzyk Agnieszka",
-        "class": "Dziennik rewalidacji - 7a",
-        "subject": "Zajęcia usprawniające - ruchowe",
-        "room": "",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "06.11.2026 piątek",
-        "lesson": "07:10-07:55",
-        "teacher": "Widawska Katarzyna",
-        "class": "ZRK- matematyka 8a",
-        "subject": "Zajęcia rozwijające kreatywność - przygotowanie do egzaminu ósmoklasisty- matematyka",
-        "room": "26g",
-        "substitute": "Uczniowie przychodzą później",
         "notes": ""
       }
     ]
