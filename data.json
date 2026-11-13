@@ -1,6 +1,6 @@
 {
   "source": "https://sp3.czerwionka-leszczyny.pl/szkola/plan_lekcji/lista.html",
-  "updated_at": "2026-11-12T14:11:54.234063+00:00",
+  "updated_at": "2026-11-13T13:36:26.063337+00:00",
   "classes": [
     {
       "name": "8a",
@@ -29793,8 +29793,48 @@
   "substitutions": {
     "substitutions": [
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "2, 08:55-09:40",
+        "teacher": "Bartoszek Mirella",
+        "class": "4C",
+        "subject": "Zajęcia praktyczno-techniczne",
+        "room": "ZT",
+        "substitute": "Szyk Urszula",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Bartoszek Mirella",
+        "class": "4C",
+        "subject": "Zajęcia praktyczno-techniczne",
+        "room": "ZT",
+        "substitute": "Machnik Marzena",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Bartoszek Mirella",
+        "class": "7C",
+        "subject": "Informatyka",
+        "room": "6g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Bartoszek Mirella",
+        "class": "7C",
+        "subject": "Zajęcia z wychowawcą",
+        "room": "23g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "1, 08:00-08:45",
         "teacher": "Drapacz Aleksandra",
         "class": "5C",
         "subject": "Język polski",
@@ -29803,67 +29843,157 @@
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5C",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Skudrzyk Agnieszka",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
         "lesson": "3, 09:50-10:35",
         "teacher": "Drapacz Aleksandra",
-        "class": "5A",
+        "class": "5B",
         "subject": "Język polski",
         "room": "27g",
         "substitute": "Wojtyńska Edyta",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Kania Beata",
-        "class": "6C",
-        "subject": "Historia",
-        "room": "17g",
-        "substitute": "Brudny Agnieszka",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Drapacz Aleksandra",
+        "class": "5B",
+        "subject": "Język polski",
+        "room": "27g",
+        "substitute": "Niżnikiewicz Barbara",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Grochla Krzysztof",
+        "class": "7C",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg2",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "3, 09:50-10:35",
+        "teacher": "Grochla Krzysztof",
+        "class": "8C",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Buchta Barbara",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Grochla Krzysztof",
+        "class": "5A",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg1",
+        "substitute": "Kurpanik Aleksandra",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Grochla Krzysztof",
+        "class": "5A",
+        "subject": "Wychowanie fizyczne",
+        "room": "sg2",
+        "substitute": "Stephan Marlena",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "1, 08:00-08:45",
+        "teacher": "Kania Beata",
+        "class": "6A|G 2",
+        "subject": "Informatyka",
+        "room": "6g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "2, 08:55-09:40",
+        "teacher": "Kania Beata",
+        "class": "8B",
+        "subject": "Informatyka",
+        "room": "6g",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
         "lesson": "3, 09:50-10:35",
         "teacher": "Kania Beata",
         "class": "8B",
         "subject": "Historia",
         "room": "17g",
-        "substitute": "Żelazny Bogusław",
+        "substitute": "Bez konsekwencji (nieobecny oddział nauczyciela)",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "4, 10:45-11:30",
-        "teacher": "Kania Beata",
-        "class": "5A",
-        "subject": "Historia",
-        "room": "17g",
-        "substitute": "Brudny Agnieszka",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "5, 11:45-12:30",
         "teacher": "Kania Beata",
         "class": "6A",
         "subject": "Historia",
         "room": "17g",
-        "substitute": "Piasecki Marcin",
+        "substitute": "Buchta Barbara",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "5, 11:45-12:30",
+        "teacher": "Kania Beata",
+        "class": "6A",
+        "subject": "Zajęcia z wychowawcą",
+        "room": "17g",
+        "substitute": "Kempny-Lenartowicz Małgorzata",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "6, 12:50-13:35",
+        "teacher": "Kania Beata",
+        "class": "6A|G 1",
+        "subject": "Informatyka",
+        "room": "6g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "7, 13:45-14:30",
+        "teacher": "Kania Beata",
+        "class": "6B",
+        "subject": "Historia",
+        "room": "17g",
+        "substitute": "Uczniowie zwolnieni do domu",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
         "lesson": "2, 08:55-09:40",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
-        "subject": "Edukacja polonistyczna",
+        "subject": "Edukacja muzyczna",
         "room": "9",
-        "substitute": "Papiernik Joanna",
+        "substitute": "Czarnecka Celina",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "3, 09:50-10:35",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
@@ -29873,7 +30003,7 @@
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "4, 10:45-11:30",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
@@ -29883,7 +30013,7 @@
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "5, 11:45-12:30",
         "teacher": "Michalik Aleksandra",
         "class": "3B",
@@ -29893,293 +30023,143 @@
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Panfil Alicja",
-        "class": "6A|G 1",
-        "subject": "Język angielski",
-        "room": "15g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "2, 08:55-09:40",
-        "teacher": "Panfil Alicja",
-        "class": "5A",
+        "teacher": "Piasecki Marcin",
+        "class": "8C",
         "subject": "Język angielski",
-        "room": "15g",
-        "substitute": "Herdzina Beata",
-        "notes": ""
+        "room": "11g",
+        "substitute": "Myszkowski Krzysztof",
+        "notes": "zamiast ostatniej lekcji"
       },
       {
-        "date": "13.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Panfil Alicja",
-        "class": "4B",
-        "subject": "Język angielski",
-        "room": "28",
-        "substitute": "Machnik Laura",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "2, 08:55-09:40",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4A",
+        "class": "5B",
+        "subject": "Technika",
+        "room": "12g",
+        "substitute": "Wyrobek Izabela",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "4, 10:45-11:30",
+        "teacher": "Plaza-Kiersztyn Alina",
+        "class": "4B",
         "subject": "Przyroda",
         "room": "ZT",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
+        "substitute": "Hadam Aleksandra",
+        "notes": "zamiast ostatniej lekcji"
       },
       {
-        "date": "13.11.2026 piątek",
-        "lesson": "2, 08:55-09:40",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "5, 11:45-12:30",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4A",
+        "class": "4C",
         "subject": "Przyroda",
         "room": "ZT",
         "substitute": "Stokłosa Iwona",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4C",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Stephan Marlena",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "4C",
-        "subject": "Przyroda",
-        "room": "ZT",
-        "substitute": "Stephan Marlena",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Wyrobek Izabela",
-        "class": "5B|5os.",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Wyrobek Izabela",
-        "class": "5A|5os.",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "1, 08:00-08:45",
-        "teacher": "Wyrobek Izabela",
-        "class": "5C|5os.",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Wyrobek Izabela",
-        "class": "5B|5os.",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Wyrobek Izabela",
-        "class": "5A|5os.",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "2, 08:55-09:40",
-        "teacher": "Wyrobek Izabela",
-        "class": "5C|5os.",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Uczniowie przychodzą później",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "3, 09:50-10:35",
-        "teacher": "Wyrobek Izabela",
-        "class": "7C",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Kielech Jerzy",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "4, 10:45-11:30",
-        "teacher": "Wyrobek Izabela",
-        "class": "5B",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Wojtyńska Edyta",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "5, 11:45-12:30",
-        "teacher": "Wyrobek Izabela",
-        "class": "6C",
-        "subject": "Matematyka",
-        "room": "28g",
-        "substitute": "Unruh Ewa",
-        "notes": "zamiast ostatniej lekcji"
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "6, 12:50-13:35",
-        "teacher": "Wyrobek Izabela",
-        "class": "4C|5os.",
-        "subject": "Matematyka",
-        "room": "25",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "10:30-11:30",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "07:45-08:45",
         "teacher": "Bartoszek Mirella",
-        "class": "Dzienik świetlicy - budynek A",
+        "class": "Dziennik świetlicy - budynek A",
         "subject": "Świetlica",
         "room": "4",
         "substitute": "Jastrzębska Katarzyna",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "12:50-13:35",
+        "teacher": "Michalik Aleksandra",
+        "class": "ZRK-3b-Ma",
+        "subject": "Zajęcia rozwijające kreatywność",
+        "room": "9",
+        "substitute": "Kajtoch Małgorzata",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "10:30-11:30",
+        "teacher": "Piasecki Marcin",
+        "class": "Dziennik świetlicy - budynek A",
+        "subject": "Świetlica",
+        "room": "4",
+        "substitute": "Stephan Marlena",
+        "notes": ""
+      },
+      {
+        "date": "16.11.2026 poniedziałek",
         "lesson": "11:30-12:30",
-        "teacher": "Bartoszek Mirella",
-        "class": "Dzienik świetlicy - budynek A",
+        "teacher": "Piasecki Marcin",
+        "class": "Dziennik świetlicy - budynek A",
         "subject": "Świetlica",
         "room": "4",
-        "substitute": "Grzegorzyca Joanna",
+        "substitute": "Ludwiczak Joanna",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "12:30-13:30",
-        "teacher": "Bartoszek Mirella",
-        "class": "Dzienik świetlicy - budynek A",
+        "teacher": "Piasecki Marcin",
+        "class": "Dziennik świetlicy - budynek A",
         "subject": "Świetlica",
         "room": "4",
-        "substitute": "Czarnecka Celina",
+        "substitute": "Szyk Urszula",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "13:30-14:30",
-        "teacher": "Bartoszek Mirella",
-        "class": "Dzienik świetlicy - budynek A",
+        "teacher": "Piasecki Marcin",
+        "class": "Dziennik świetlicy - budynek A",
         "subject": "Świetlica",
         "room": "4",
-        "substitute": "Piasecki Marcin",
+        "substitute": "Kurpanik Aleksandra",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "14:30-15:30",
-        "teacher": "Bartoszek Mirella",
-        "class": "Dzienik świetlicy - budynek A",
+        "teacher": "Piasecki Marcin",
+        "class": "Dziennik świetlicy - budynek A",
         "subject": "Świetlica",
         "room": "4",
-        "substitute": "Piasecki Marcin",
+        "substitute": "Kurpanik Aleksandra",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "15:30-16:00",
-        "teacher": "Bartoszek Mirella",
-        "class": "Dzienik świetlicy - budynek A",
+        "teacher": "Piasecki Marcin",
+        "class": "Dziennik świetlicy - budynek A",
         "subject": "Świetlica",
         "room": "4",
         "substitute": "Kurdybanowska-Lach Karolina",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
-        "lesson": "10:40-11:40",
-        "teacher": "Drapacz Aleksandra",
-        "class": "Dziennik rewalidacji - 5b",
-        "subject": "Zajęcia rewalidacyjne",
-        "room": "27g",
-        "substitute": "Wojtyńska Edyta",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "12:50-13:50",
-        "teacher": "Kania Beata",
-        "class": "Dziennik świetlicy - budynek B",
-        "subject": "Świetlica",
-        "room": "",
-        "substitute": "Uczniowie zwolnieni do domu",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "10:30-11:30",
-        "teacher": "Panfil Alicja",
-        "class": "Dzienik świetlicy - budynek A",
-        "subject": "Świetlica",
-        "room": "4",
-        "substitute": "Hadam Aleksandra",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
+        "date": "16.11.2026 poniedziałek",
         "lesson": "07:00-08:00",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "Dzirnnik rewalidacji - 8c",
+        "class": "Dziennik rewalidacji - 8c",
         "subject": "Zajęcia rewalidacyjne",
         "room": "",
         "substitute": "Uczniowie przychodzą później",
         "notes": ""
       },
       {
-        "date": "13.11.2026 piątek",
-        "lesson": "11:45-12:45",
+        "date": "16.11.2026 poniedziałek",
+        "lesson": "13:45-14:45",
         "teacher": "Plaza-Kiersztyn Alina",
-        "class": "Dzirnnik rewalidacji - 7a",
-        "subject": "Rewalidacja",
+        "class": "Dziennik rewalidacji - 8b",
+        "subject": "Zajęcia rewalidacyjne",
         "room": "",
-        "substitute": "Wojtyńska Edyta",
-        "notes": ""
-      },
-      {
-        "date": "13.11.2026 piątek",
-        "lesson": "12:45-13:45",
-        "teacher": "Plaza-Kiersztyn Alina",
-        "class": "Dzirnnik rewalidacji -7a",
-        "subject": "Rewalidacja",
-        "room": "",
-        "substitute": "Wojtyńska Edyta",
+        "substitute": "Uczniowie zwolnieni do domu",
         "notes": ""
       }
     ]
